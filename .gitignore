@@ -24,5 +24,6 @@
 /netsci/resources/
 /netsci/scripts/
 /netsci/code
+/netsci/slides/ns04b-assortativity.pdf
 
-.gitignore
+/.gitignore
