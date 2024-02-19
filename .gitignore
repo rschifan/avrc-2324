@@ -14,7 +14,6 @@
 *.key
 *.pptx
 *.yaml
-.gitignore 
 
 /dataviz/code
 /dataviz/resources
@@ -26,6 +25,4 @@
 /netsci/scripts/
 /netsci/code
 
-
-
-
+.gitignore
