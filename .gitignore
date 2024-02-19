@@ -1,0 +1,30 @@
+
+/.venv
+/Corso- Analisi e Visualizzazione Reti Complesse a.a. 2022:23.webloc
+/Corso- Analisi e Visualizzazione di Reti Complesse 21:22.webloc
+/Corso- Analisi e Visualizzazione di Reti Complesse.webloc
+/README
+/marp
+/networkx-resources
+/~$_syllabus.docx
+
+*.md
+*.docx
+*.DS_Store
+*.key
+*.pptx
+*.yaml
+
+/dataviz/code
+/dataviz/resources
+/dataviz/slides/assets
+
+/netsci/slides/assets
+/netsci/references/
+/netsci/resources/
+/netsci/scripts/
+/netsci/code
+
+
+
+
