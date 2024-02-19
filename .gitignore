@@ -14,16 +14,24 @@
 *.key
 *.pptx
 *.yaml
+*.sh
 
 /dataviz/code
 /dataviz/resources
 /dataviz/slides/assets
 
-/netsci/slides/assets
+/netsci/slides/src/assets
 /netsci/references/
 /netsci/resources/
 /netsci/scripts/
 /netsci/code
+
 /netsci/slides/ns04b-assortativity.pdf
+/netsci/slides/ns00.pdf
+/netsci/slides/ns09*.pdf
+/netsci/slides/ns10*.pdf
+/netsci/slides/ns11*.pdf
+/netsci/slides/ns12*.pdf
+/netsci/slides/ns13*.pdf
 
 /.gitignore
