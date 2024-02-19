@@ -18,10 +18,9 @@
 
 /dataviz/code
 /dataviz/resources
-/dataviz/slides/assets
+/dataviz/slides/src/assets
 
 /netsci/slides/src/assets
-/netsci/references/
 /netsci/resources/
 /netsci/scripts/
 /netsci/code
