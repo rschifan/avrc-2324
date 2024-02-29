@@ -16,6 +16,8 @@
 *.yaml
 *.sh
 
+test.ipynb
+
 /dataviz/code
 /dataviz/resources
 /dataviz/slides/src/assets
@@ -23,7 +25,10 @@
 /netsci/slides/src/assets
 /netsci/resources/
 /netsci/scripts/
-/netsci/code
+/netsci/code/
+/netsci/tutorials/solutions
+
+
 
 /netsci/slides/ns04b-assortativity.pdf
 /netsci/slides/ns00.pdf
