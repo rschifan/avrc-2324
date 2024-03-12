@@ -15,6 +15,9 @@
 *.pptx
 *.yaml
 *.sh
+*.lock
+*.dirlock
+plotting_distribution.*
 
 test.ipynb
 
