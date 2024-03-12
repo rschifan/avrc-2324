@@ -19,6 +19,10 @@
 *.dirlock
 plotting_distribution.*
 
+dask-worker-space
+.ipynb*
+.virtual*
+
 test.ipynb
 
 /dataviz/code
