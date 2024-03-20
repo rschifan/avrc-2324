@@ -1,9 +1,4 @@
-
-
-
-# Resources
-
-See also https://yyiki.org/wiki/Data%20visualization/
+# Resources for the Visualization module
 
 ## Datasets
 
