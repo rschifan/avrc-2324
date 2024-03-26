@@ -11,3 +11,11 @@
 
 - [Official Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
 - [Official Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
+
+## [Geopandas](https://geopandas.org/)
+
+- [Official Geopandas User Guide](https://geopandas.org/en/stable/docs/user_guide.html)
+- [Official Goepandas API Reference](https://geopandas.org/en/stable/docs/reference.html)
+- [Official Goepandas Examples](https://geopandas.org/en/stable/gallery/index.html)
+
+
