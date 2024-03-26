@@ -12,6 +12,13 @@
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - ["Data is plural" newsletter](https://www.data-is-plural.com/) and [archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
+
+
+
+## Javascript
+
+- [Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## D3.js or Vega
 
 - https://observablehq.com/@observablehq/user-manual - Observable is probably THE BEST platform to create web-based interactive visualizations. Either you use D3 or Vega, start from the ObservableHQ. 
