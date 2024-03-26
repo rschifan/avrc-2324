@@ -17,7 +17,7 @@
 
 ## Javascript
 
-- [Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## D3.js or Vega
 
