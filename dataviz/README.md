@@ -59,6 +59,10 @@
 
 - http://stanford.edu/~mwaskom/software/seaborn/
 
+### Geopandas 
+
+- https://geopandas.org/en/stable/docs.html
+
 ### Bokeh
 
 - http://bokeh.pydata.org/en/latest/
