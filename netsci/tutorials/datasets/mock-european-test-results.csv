@@ -1,0 +1,3001 @@
+﻿country,age,sex,score
+Spain,22,female,0.71
+Italy,19,male,0.18
+Ireland,21,female,0.45
+Spain,19,female,0.45
+Italy,21,female,0.6
+Ireland,21,male,0.83
+Italy,24,male,0.78
+Italy,24,male,0.56
+Ireland,20,female,0.79
+Italy,18,male,0.55
+Spain,19,male,0.48
+Spain,20,female,0.48
+Italy,18,male,0.59
+France,20,female,0.59
+Germany,21,male,0.26
+Germany,20,male,0.7
+Germany,24,female,0.83
+Germany,22,female,0.79
+Ireland,21,male,0.41
+Spain,20,male,0.46
+Spain,19,male,0.67
+United Kingdom,18,female,0.77
+Germany,20,female,0.69
+United Kingdom,24,female,0.24
+Ireland,23,male,0.51
+Spain,18,female,0.4
+Ireland,24,male,0.42
+Italy,21,male,0.41
+Germany,20,female,0.44
+Italy,20,male,0.6
+Ireland,23,female,0.64
+Italy,23,male,0.47
+Italy,19,female,0.67
+Ireland,20,female,0.78
+Germany,19,male,0.29
+Italy,23,male,0.93
+Ireland,19,male,0.66
+Germany,23,male,0.95
+Ireland,23,female,0.63
+Ireland,18,male,0.62
+Italy,18,female,0.35
+United Kingdom,20,male,0.28
+United Kingdom,20,male,0.62
+France,21,male,0.32
+Italy,24,male,0.79
+France,22,male,0.3
+Spain,21,male,0.58
+Germany,21,male,0.94
+Ireland,18,female,0.17
+Germany,19,female,0.5
+United Kingdom,21,male,0.59
+France,22,male,0.63
+Spain,19,male,0.25
+Spain,18,female,0.65
+Italy,18,female,0.53
+Ireland,21,male,0.39
+United Kingdom,24,male,0.46
+Italy,20,female,0.86
+Spain,20,female,0.11
+Italy,21,male,0.66
+Spain,24,male,0.72
+United Kingdom,23,female,0.41
+United Kingdom,22,female,0.33
+France,20,male,0.43
+Germany,21,female,0.64
+Ireland,20,female,0.32
+Ireland,19,male,0.29
+Italy,18,male,0.98
+United Kingdom,23,male,0.7
+Italy,21,female,0.52
+Spain,19,male,0.72
+United Kingdom,18,male,0.65
+Germany,21,female,0.46
+Italy,20,female,0.53
+France,18,female,0.49
+France,18,female,0.2
+Italy,19,female,0.43
+France,24,male,0.34
+Spain,19,male,0.63
+Italy,20,male,0.38
+Ireland,23,female,0.7
+France,23,female,0.9
+Spain,24,male,0.36
+Germany,22,female,0.6
+Germany,20,male,0.49
+Spain,21,female,0.68
+Spain,23,male,0.69
+United Kingdom,21,female,0.48
+Ireland,22,male,0.65
+France,18,female,0.67
+Ireland,18,female,0.37
+Italy,21,male,0.65
+Italy,22,male,0.77
+Germany,21,female,0.5
+Spain,24,male,0.65
+France,19,female,0.4
+Italy,18,male,0.48
+Germany,20,male,0.28
+Germany,19,male,0.69
+Italy,20,male,0.5
+Ireland,21,female,0.51
+Germany,23,male,0.54
+France,22,male,0.72
+Germany,18,female,0.63
+Ireland,20,male,0.79
+Italy,18,female,0.61
+Spain,23,female,0.55
+Spain,23,male,0.59
+Ireland,23,male,0.79
+Ireland,21,male,0.77
+Italy,20,female,0.3
+Ireland,23,female,0.59
+Spain,24,male,0.31
+Spain,19,female,0.12
+Germany,23,male,0.68
+Spain,22,male,0.79
+Spain,24,female,0.31
+Ireland,23,female,0.58
+Spain,19,male,0.78
+Germany,18,male,0.71
+Spain,18,female,0.54
+United Kingdom,20,female,0.87
+Ireland,20,female,0.55
+Spain,23,female,0.25
+Spain,18,female,0.46
+Spain,22,female,0.79
+Italy,24,male,0.73
+France,22,female,0.52
+United Kingdom,23,male,0.52
+Germany,22,male,0.83
+Spain,20,male,0.3
+Germany,19,male,0.15
+Ireland,19,male,0.83
+Germany,18,male,0.42
+Italy,22,male,0.73
+Germany,18,female,0.65
+Germany,24,female,0.82
+Italy,22,female,0.71
+Spain,19,female,0.7
+Ireland,18,female,0.86
+Spain,20,male,0.46
+France,18,male,0.42
+France,24,male,0.75
+United Kingdom,21,male,0.27
+United Kingdom,21,female,0.76
+United Kingdom,19,female,0.65
+France,24,female,0.32
+Germany,24,male,0.5
+Ireland,18,female,0.25
+Germany,24,female,0.76
+Spain,23,male,0.62
+France,21,female,0.82
+Spain,21,female,0.44
+France,23,male,0.83
+Germany,24,male,0.71
+France,20,male,0.15
+United Kingdom,21,male,0.92
+Germany,23,female,0.52
+United Kingdom,24,female,0.42
+Spain,22,female,0.59
+Ireland,22,female,0.75
+Germany,18,female,0.54
+United Kingdom,23,male,0.72
+Germany,24,male,0.62
+Germany,19,female,0.51
+Italy,21,male,0.67
+France,23,male,0.54
+Ireland,24,male,0.51
+Italy,22,male,0.39
+Italy,23,female,0.35
+Ireland,22,male,0.57
+France,19,male,0.22
+France,19,male,0.78
+Germany,21,female,0.17
+Italy,24,male,0.43
+Spain,22,male,0.44
+Spain,24,male,0.58
+Ireland,24,male,0.55
+Germany,24,female,0.51
+France,23,male,0.74
+United Kingdom,22,male,0.54
+France,23,female,0.66
+United Kingdom,24,female,0.55
+Italy,23,male,0.63
+France,21,male,0.49
+Germany,19,male,0.6
+Italy,19,female,0.57
+United Kingdom,24,female,0.81
+Spain,19,female,0.86
+United Kingdom,22,female,0.13
+Germany,18,female,0.7
+Spain,23,male,0.29
+Italy,19,male,0.61
+Germany,24,male,0.39
+Italy,20,female,0.65
+Germany,19,male,0.67
+United Kingdom,18,female,0.68
+Spain,19,female,0.62
+Italy,18,female,0.6
+Ireland,24,male,0.34
+United Kingdom,20,male,0.69
+Spain,24,male,0.7
+Italy,20,male,0.51
+United Kingdom,18,male,0.56
+France,20,female,0.54
+France,24,female,0.65
+Italy,24,male,0.45
+Germany,18,male,0.74
+Italy,20,male,0.73
+Spain,18,female,0.78
+United Kingdom,24,female,0.76
+Ireland,23,male,0.38
+Italy,24,male,0.48
+Spain,22,female,0.64
+Spain,24,male,0.1
+Germany,24,male,0.53
+Italy,20,male,0.3
+Spain,19,female,0.7
+United Kingdom,21,male,0.2
+Italy,19,male,0.67
+United Kingdom,24,male,0.53
+United Kingdom,19,female,0.48
+Ireland,22,female,0.39
+Spain,23,male,0.46
+Germany,23,female,0.65
+United Kingdom,20,male,0.57
+Spain,18,female,0.84
+France,22,female,0.66
+France,21,male,0.54
+Italy,19,female,0.3
+Italy,18,female,0.62
+France,21,male,0.3
+United Kingdom,20,male,0.16
+France,20,female,0.76
+Italy,22,male,0.56
+Germany,24,female,0.79
+Spain,24,female,0.72
+Germany,21,female,0.38
+Germany,24,female,0.75
+France,19,male,0.74
+United Kingdom,20,female,0.76
+Ireland,21,male,0.57
+United Kingdom,23,female,0.44
+Ireland,19,male,0.3
+Spain,19,female,0.49
+France,21,male,0.73
+Ireland,18,male,0.82
+Italy,19,male,0.68
+Spain,23,female,0.79
+Germany,21,female,0.38
+France,24,male,0.35
+Germany,24,male,0.74
+Italy,18,male,0.4
+United Kingdom,24,male,0.65
+Spain,23,male,0.26
+Italy,20,male,0.47
+Germany,18,female,0.83
+Germany,20,female,0.24
+United Kingdom,23,female,0.6
+Italy,23,male,0.2
+Ireland,21,female,0.55
+Spain,21,female,0.5
+United Kingdom,18,male,0.69
+United Kingdom,20,male,0.86
+United Kingdom,18,female,0.79
+Spain,20,male,0.32
+Ireland,24,female,0.82
+Germany,23,male,0.66
+Ireland,23,female,0.78
+United Kingdom,21,female,0.83
+France,19,male,0.41
+United Kingdom,22,male,0.44
+United Kingdom,18,female,0.23
+Italy,18,female,0.42
+Italy,20,female,0.48
+United Kingdom,21,male,0.95
+Italy,24,male,0.72
+Germany,19,male,0.5
+Ireland,24,male,0.7
+France,19,male,0.2
+Spain,24,female,0.41
+Spain,21,male,0.48
+Spain,24,male,0.5
+Germany,20,male,0.56
+Germany,21,female,0.57
+Spain,22,male,0.64
+Italy,20,female,0.32
+United Kingdom,20,male,0.5
+Germany,19,female,0.67
+Spain,21,male,0.47
+United Kingdom,24,male,0.25
+Ireland,18,female,0.4
+Italy,21,female,0.47
+France,21,male,0.61
+France,20,female,0.23
+France,22,male,0.85
+Germany,22,male,0.53
+Spain,24,female,0.36
+Spain,19,male,0.4
+France,24,female,0.72
+Germany,21,female,0.2
+Ireland,19,female,0.41
+Italy,19,male,0.75
+Italy,18,female,0.54
+France,20,male,0.73
+France,18,female,0.7
+United Kingdom,24,male,0.61
+Ireland,19,female,0.88
+Germany,23,female,0.5
+Italy,23,female,0.91
+Spain,20,female,0.48
+Ireland,22,male,0.3
+Spain,18,female,0.53
+France,19,female,0.75
+Italy,18,female,0.43
+Germany,19,female,0.66
+Ireland,22,male,0.47
+Italy,22,male,0.54
+France,23,male,0.26
+Ireland,23,male,0.27
+Spain,24,male,0.73
+Ireland,22,male,0.48
+Germany,24,female,0.62
+Germany,22,female,0.23
+Ireland,20,male,0.37
+Ireland,23,male,0.3
+Spain,23,male,0.67
+Ireland,23,female,0.6
+Italy,22,female,0.43
+Germany,20,male,0.25
+France,18,female,0.8
+France,21,male,0.52
+Ireland,24,male,0.6
+United Kingdom,24,female,0.68
+United Kingdom,23,male,0.45
+United Kingdom,19,female,0.82
+France,22,male,0.28
+United Kingdom,22,male,0.3
+Spain,18,female,0.69
+Ireland,23,male,0.65
+United Kingdom,18,male,0.67
+Spain,19,male,0.74
+United Kingdom,22,male,0.86
+Germany,18,female,0.77
+Ireland,18,male,0.65
+Spain,19,female,0.74
+Italy,22,female,0.34
+Germany,23,male,0.55
+Spain,22,female,0.41
+Ireland,24,male,0.7
+Ireland,22,female,0.68
+Italy,18,male,0.74
+Germany,21,male,0.58
+United Kingdom,22,female,0.78
+France,21,male,0.7
+Italy,20,male,0.21
+Germany,18,female,0.48
+Ireland,23,male,0.86
+Germany,21,female,0.7
+Ireland,22,male,0.42
+France,21,male,0.7
+Italy,19,female,0.65
+Germany,20,male,0.34
+France,19,male,0.5
+Ireland,20,female,0.42
+Italy,21,male,0.52
+United Kingdom,22,female,0.65
+Italy,18,male,0.45
+United Kingdom,19,male,0.44
+Ireland,21,female,0.74
+France,18,female,0.43
+Germany,21,male,0.65
+Spain,20,female,0.2
+Spain,21,male,0.12
+United Kingdom,20,male,0.55
+Germany,24,male,0.5
+Italy,23,female,0.68
+Italy,20,male,0.55
+Italy,20,male,0.61
+Ireland,23,male,0.4
+Germany,22,female,0.73
+Italy,19,male,0.65
+Germany,24,female,0.59
+France,19,female,0.63
+Ireland,20,male,0.89
+Spain,18,female,0.36
+Germany,24,female,0.75
+France,22,male,0.25
+United Kingdom,21,female,0.46
+United Kingdom,18,female,0.35
+United Kingdom,19,female,0.64
+Ireland,21,female,0.46
+Spain,18,female,0.68
+France,23,female,0.63
+France,19,male,0.6
+Germany,20,female,0.59
+Germany,18,male,0.16
+United Kingdom,22,male,0.62
+Germany,23,male,0.7
+Italy,21,female,0.64
+Germany,22,female,0.5
+France,22,male,0.68
+United Kingdom,21,male,0.62
+France,23,female,0.31
+Germany,21,male,0.51
+Ireland,19,female,0.59
+United Kingdom,24,female,0.8
+Ireland,24,female,0.53
+France,24,male,0.48
+France,23,male,0.49
+Germany,21,male,0.66
+France,21,female,0.48
+Germany,19,female,0.63
+United Kingdom,20,female,0.74
+Ireland,21,male,0.63
+Ireland,24,female,0.31
+United Kingdom,21,male,0.65
+Germany,19,male,0.37
+United Kingdom,18,male,0.81
+United Kingdom,22,female,0.44
+Germany,23,female,0.53
+Italy,21,male,0.74
+France,19,male,0.61
+Spain,24,female,0.68
+United Kingdom,22,male,0.63
+France,18,male,0.6
+France,18,female,0.14
+Germany,21,female,0.71
+Germany,20,male,0.69
+United Kingdom,24,male,0.53
+France,20,female,0.5
+United Kingdom,19,female,0.98
+Spain,19,female,0.19
+Spain,23,female,0.31
+Italy,18,female,0.53
+Spain,20,female,0.73
+Ireland,18,female,0.88
+Germany,20,male,0.85
+Spain,20,female,0.54
+United Kingdom,18,male,0.6
+Ireland,22,female,0.7
+United Kingdom,18,male,0.59
+Italy,20,female,0.38
+Italy,24,female,0.7
+Italy,22,female,0.56
+France,20,male,0.57
+France,20,female,0.79
+United Kingdom,20,male,0.86
+Germany,24,female,0.2
+Italy,21,female,0.62
+Ireland,19,male,0.68
+Italy,18,female,0.47
+Spain,22,female,0.11
+Germany,18,male,0.69
+Ireland,20,male,0.46
+Spain,22,male,0.4
+Italy,21,male,1.0
+France,20,female,0.8
+Spain,23,male,0.33
+United Kingdom,24,male,0.6
+Spain,19,male,0.72
+Italy,18,male,0.62
+France,21,female,0.59
+Germany,18,male,0.57
+Spain,21,female,0.89
+Spain,24,female,0.49
+France,21,female,0.49
+France,24,female,0.56
+Ireland,21,female,0.27
+Germany,20,female,0.25
+Spain,21,male,0.5
+Spain,22,male,0.34
+Italy,23,male,0.84
+Ireland,23,female,0.59
+Spain,20,male,0.79
+Ireland,21,female,0.36
+Ireland,21,female,0.66
+Germany,19,male,0.52
+United Kingdom,23,female,0.5
+France,18,female,0.7
+Italy,23,female,0.78
+France,23,male,0.5
+Italy,20,male,0.44
+France,22,female,0.77
+Italy,20,male,0.3
+United Kingdom,24,female,0.38
+Ireland,22,male,0.71
+Germany,18,female,0.44
+France,20,male,0.3
+Italy,19,male,0.59
+France,24,male,0.6
+Italy,21,female,0.69
+Ireland,18,female,0.74
+Ireland,23,female,0.54
+United Kingdom,21,male,0.88
+United Kingdom,23,male,0.65
+Spain,21,female,0.35
+Germany,24,male,0.58
+United Kingdom,18,female,0.6
+United Kingdom,22,male,0.44
+Germany,21,female,0.31
+Germany,18,female,0.82
+United Kingdom,19,female,0.75
+Germany,18,female,0.3
+United Kingdom,18,female,0.51
+France,20,male,0.71
+Italy,18,male,0.77
+United Kingdom,23,male,0.84
+Ireland,21,male,0.47
+United Kingdom,19,male,0.1
+United Kingdom,22,male,0.73
+France,21,male,0.3
+Ireland,18,male,0.55
+Spain,21,male,0.54
+United Kingdom,19,female,0.5
+France,24,female,0.38
+Spain,23,female,0.8
+Ireland,23,male,0.29
+Spain,21,female,0.71
+United Kingdom,22,female,0.19
+Spain,24,female,0.78
+Spain,22,male,0.79
+Spain,24,female,0.56
+France,21,male,0.85
+United Kingdom,21,male,0.3
+Spain,22,female,0.7
+Italy,22,male,0.8
+France,21,male,0.78
+France,20,female,0.75
+Italy,18,male,0.47
+Germany,19,female,0.34
+France,24,female,0.46
+Spain,23,female,0.63
+United Kingdom,18,female,0.35
+Italy,18,male,0.4
+Ireland,18,female,0.64
+Germany,24,female,0.68
+Germany,20,male,0.38
+United Kingdom,21,male,0.6
+Italy,22,female,0.4
+Germany,22,female,0.77
+Spain,24,female,0.78
+France,24,female,0.88
+Ireland,22,female,0.64
+Germany,23,female,0.64
+Germany,20,female,0.51
+Spain,19,female,0.21
+Spain,22,male,0.44
+Italy,18,female,0.36
+United Kingdom,24,female,0.77
+United Kingdom,20,female,0.7
+Ireland,22,female,0.58
+Spain,19,female,0.97
+Ireland,20,female,0.74
+Ireland,19,male,0.86
+Ireland,19,male,0.29
+France,19,female,0.52
+France,20,male,0.44
+Germany,22,female,0.51
+Italy,19,female,0.38
+Spain,24,male,0.78
+Spain,21,female,0.28
+Spain,20,female,0.6
+Ireland,18,male,0.74
+Ireland,20,female,0.38
+France,24,female,0.79
+France,24,male,0.77
+France,18,male,0.67
+United Kingdom,24,male,0.33
+Ireland,20,female,0.3
+Germany,23,male,0.77
+Germany,23,female,0.27
+Germany,18,male,1.0
+Italy,23,female,0.86
+Ireland,19,female,0.67
+Ireland,19,female,0.4
+France,19,male,0.12
+Ireland,19,male,0.61
+France,22,female,0.68
+Ireland,18,male,0.45
+France,22,female,0.4
+United Kingdom,24,female,0.61
+Spain,19,female,0.79
+Italy,21,male,0.5
+France,19,male,0.69
+Ireland,23,male,0.68
+France,19,male,0.24
+Germany,20,male,0.44
+Ireland,18,female,0.52
+Spain,18,male,0.6
+France,19,male,0.51
+France,23,male,0.77
+Germany,21,female,0.54
+United Kingdom,21,male,0.67
+United Kingdom,19,male,0.69
+Ireland,23,male,0.6
+Ireland,20,male,0.53
+Germany,19,male,0.38
+France,23,female,0.49
+Ireland,20,female,0.78
+Spain,19,female,0.26
+United Kingdom,22,female,0.31
+Germany,24,male,0.56
+Ireland,19,female,0.39
+Ireland,22,male,0.76
+Ireland,24,female,0.73
+United Kingdom,22,female,0.51
+Germany,21,male,0.82
+United Kingdom,23,male,0.82
+Germany,20,male,0.52
+France,19,female,0.52
+United Kingdom,20,male,0.39
+Spain,18,male,0.57
+Italy,22,male,0.57
+Germany,24,male,0.8
+France,24,male,0.61
+Ireland,19,female,0.13
+United Kingdom,20,female,0.55
+Spain,19,female,0.77
+Spain,19,male,0.4
+France,24,female,0.58
+France,22,female,0.28
+Spain,19,male,0.69
+United Kingdom,23,male,0.31
+Germany,19,male,0.26
+United Kingdom,23,male,0.27
+United Kingdom,22,female,0.53
+United Kingdom,22,male,0.23
+United Kingdom,22,female,0.67
+Germany,23,female,0.55
+Spain,23,female,0.66
+United Kingdom,23,male,0.5
+Italy,21,female,0.46
+United Kingdom,22,male,0.3
+Italy,20,male,0.34
+United Kingdom,24,male,0.77
+United Kingdom,21,female,0.73
+Italy,20,female,0.49
+Italy,23,male,0.86
+France,23,female,0.74
+Germany,19,male,0.46
+Germany,18,female,0.33
+Ireland,21,female,0.64
+Italy,20,female,0.51
+France,22,male,0.55
+United Kingdom,19,male,0.5
+France,24,female,0.71
+Spain,18,male,0.37
+Ireland,22,male,0.37
+France,18,female,0.45
+Italy,21,male,0.38
+United Kingdom,20,male,0.77
+United Kingdom,21,male,0.66
+United Kingdom,21,female,0.6
+Italy,21,male,0.45
+Ireland,24,female,0.75
+Ireland,18,female,0.1
+Germany,21,female,0.59
+Spain,22,male,0.69
+Spain,22,female,0.56
+Ireland,19,female,0.98
+United Kingdom,18,female,0.4
+Spain,23,male,0.5
+Ireland,20,female,0.44
+Spain,18,female,0.53
+France,24,female,0.89
+Ireland,18,female,0.86
+Germany,20,male,0.44
+United Kingdom,19,female,0.63
+United Kingdom,20,male,0.3
+United Kingdom,21,female,0.82
+United Kingdom,19,female,0.79
+Germany,19,female,0.7
+Italy,22,female,0.46
+Germany,18,female,0.63
+Spain,24,male,0.66
+Italy,19,female,0.8
+Ireland,20,female,0.7
+United Kingdom,23,male,0.46
+Spain,19,male,0.7
+Spain,23,male,0.55
+United Kingdom,21,male,0.23
+Germany,22,male,0.65
+United Kingdom,20,female,0.64
+Ireland,18,female,0.55
+Ireland,23,male,0.3
+United Kingdom,22,female,0.48
+Spain,18,male,0.72
+United Kingdom,19,male,0.23
+France,21,male,0.11
+France,21,female,0.7
+United Kingdom,22,male,0.45
+France,20,female,0.7
+Italy,24,female,0.24
+Italy,18,female,0.23
+Germany,19,female,0.7
+France,23,female,0.25
+Germany,22,female,0.58
+Germany,20,male,0.71
+Spain,18,male,0.18
+Spain,20,female,0.6
+France,18,male,0.87
+United Kingdom,18,female,0.4
+Spain,20,female,0.58
+United Kingdom,22,male,0.39
+Germany,22,male,0.4
+United Kingdom,18,male,0.84
+Germany,20,male,0.26
+Italy,23,male,0.41
+France,21,female,0.59
+Spain,23,female,0.7
+Italy,20,female,0.7
+Ireland,24,male,0.65
+Spain,21,male,0.48
+Italy,18,male,0.49
+Germany,19,female,0.89
+United Kingdom,18,male,0.12
+United Kingdom,23,female,0.41
+France,24,male,0.4
+Ireland,23,female,0.5
+Ireland,22,male,0.54
+Germany,24,male,0.72
+Ireland,18,male,0.42
+Italy,24,male,0.3
+Germany,19,male,0.53
+Spain,24,male,0.6
+Germany,19,female,0.86
+Germany,24,male,0.68
+Germany,21,female,0.29
+France,23,male,0.6
+United Kingdom,20,female,0.4
+France,22,male,0.17
+Germany,18,male,0.66
+France,22,female,0.8
+Germany,22,male,0.29
+United Kingdom,18,female,0.79
+France,21,male,0.53
+Germany,23,female,0.76
+France,21,female,0.33
+United Kingdom,19,male,0.71
+Italy,22,male,0.37
+Ireland,22,male,0.66
+United Kingdom,19,female,0.7
+Spain,18,female,0.77
+Italy,18,female,0.42
+Italy,23,female,0.49
+France,18,male,0.38
+United Kingdom,20,male,0.83
+Italy,20,female,0.73
+United Kingdom,23,female,0.59
+Germany,20,male,0.46
+France,22,male,0.52
+Ireland,20,male,0.52
+Ireland,23,male,0.63
+France,19,female,0.6
+France,18,male,0.3
+United Kingdom,24,male,0.2
+Italy,20,female,0.8
+Germany,20,male,0.57
+Spain,22,female,0.31
+Spain,19,male,0.89
+United Kingdom,20,male,0.76
+United Kingdom,24,male,0.85
+France,20,male,0.85
+Germany,22,female,0.22
+Germany,19,male,0.46
+Italy,24,male,0.5
+Ireland,24,male,0.62
+Ireland,20,male,0.63
+Italy,21,female,0.6
+Ireland,21,male,0.64
+United Kingdom,23,female,0.6
+Italy,21,female,0.21
+Italy,22,female,0.69
+Ireland,19,male,0.3
+Germany,18,female,0.79
+United Kingdom,19,male,0.49
+Italy,21,female,0.67
+Spain,20,male,0.26
+Spain,24,male,0.31
+United Kingdom,19,male,0.72
+Italy,24,female,0.9
+Spain,18,male,0.55
+Germany,22,female,0.19
+Spain,19,female,0.28
+United Kingdom,19,male,0.5
+Spain,23,female,0.5
+Spain,19,female,0.42
+Germany,18,female,0.73
+Italy,23,female,0.79
+Italy,21,male,0.48
+Italy,19,male,0.49
+France,22,female,0.12
+Spain,19,female,0.63
+Italy,19,female,0.6
+France,21,female,0.29
+Italy,23,female,0.55
+Spain,18,female,0.74
+Ireland,24,male,0.32
+Italy,21,male,0.7
+France,20,female,0.56
+Germany,24,female,0.59
+Italy,24,female,0.12
+Italy,24,female,0.31
+Germany,22,female,0.67
+Ireland,19,female,0.59
+Ireland,23,female,0.6
+Italy,21,female,0.23
+France,22,male,0.76
+Germany,21,male,0.53
+Italy,23,male,0.73
+United Kingdom,18,male,0.7
+Italy,24,male,0.66
+France,24,male,0.18
+Spain,23,female,0.63
+Italy,22,male,0.64
+United Kingdom,18,female,0.1
+United Kingdom,20,male,0.58
+Germany,19,male,0.68
+Ireland,21,male,0.61
+Spain,22,female,0.41
+Ireland,24,male,0.8
+France,18,male,0.48
+Germany,18,female,0.52
+Spain,24,female,0.38
+Germany,22,female,0.72
+Germany,23,female,0.43
+United Kingdom,23,female,0.2
+Spain,19,female,0.55
+Spain,21,female,0.2
+Ireland,20,female,0.83
+Germany,20,male,0.61
+France,20,female,0.72
+Ireland,18,female,0.38
+United Kingdom,21,male,0.61
+Spain,20,female,0.65
+United Kingdom,20,female,0.4
+Italy,19,male,0.49
+Ireland,21,female,0.73
+France,24,female,0.44
+Spain,23,male,0.65
+United Kingdom,24,female,0.33
+Spain,23,female,0.85
+Ireland,22,male,0.89
+United Kingdom,19,male,0.32
+France,24,male,0.5
+France,24,female,0.41
+Italy,18,male,0.5
+Germany,24,female,0.2
+United Kingdom,22,female,0.55
+Ireland,18,female,0.24
+Germany,18,female,0.55
+Germany,22,male,0.83
+Germany,18,male,0.62
+Italy,19,male,0.61
+France,24,male,0.51
+Germany,24,female,0.54
+Germany,21,female,0.67
+Spain,21,male,0.4
+Ireland,19,female,0.91
+United Kingdom,23,male,0.73
+United Kingdom,21,female,0.27
+Ireland,22,male,0.64
+United Kingdom,18,male,0.69
+Italy,22,male,0.54
+France,19,female,0.24
+Italy,23,female,0.5
+France,20,male,0.82
+Ireland,24,female,0.27
+Germany,20,male,0.49
+Germany,22,female,0.34
+Spain,18,male,0.84
+Ireland,19,female,0.4
+Ireland,23,female,0.78
+Germany,20,female,0.47
+United Kingdom,18,male,0.53
+United Kingdom,19,female,0.36
+Spain,19,female,0.4
+France,22,male,0.28
+France,21,female,0.7
+Italy,19,female,0.6
+Germany,19,male,0.42
+Spain,23,female,0.7
+Spain,20,male,0.73
+Germany,20,female,0.4
+Spain,20,male,0.89
+France,18,male,0.41
+Spain,21,female,0.6
+Spain,21,female,0.7
+Spain,20,female,0.36
+Spain,19,male,0.4
+United Kingdom,21,male,0.54
+Ireland,19,male,0.63
+United Kingdom,22,male,0.23
+France,20,female,0.38
+United Kingdom,19,male,0.87
+Italy,20,female,0.56
+France,24,female,0.49
+Germany,18,male,0.46
+Spain,18,male,0.46
+United Kingdom,19,female,0.6
+Italy,20,female,0.57
+United Kingdom,24,male,0.62
+United Kingdom,24,male,0.42
+France,21,female,0.35
+Ireland,21,male,0.47
+Ireland,19,male,0.53
+France,23,female,0.36
+Italy,23,female,0.59
+United Kingdom,20,male,0.43
+Italy,22,female,0.39
+United Kingdom,23,female,0.79
+Spain,21,female,0.81
+France,24,male,0.35
+Germany,19,female,0.61
+United Kingdom,21,male,0.71
+France,24,male,0.68
+France,19,male,0.66
+Italy,23,male,0.63
+France,23,female,0.73
+Italy,24,female,0.67
+United Kingdom,18,male,0.8
+Germany,20,female,0.51
+Italy,18,male,0.55
+Ireland,23,female,0.67
+Spain,19,female,0.67
+Italy,22,female,0.45
+Ireland,21,female,0.35
+Ireland,21,male,0.5
+Germany,18,male,0.67
+United Kingdom,22,female,0.45
+Germany,20,female,0.86
+Ireland,24,male,0.45
+Ireland,23,male,0.63
+United Kingdom,18,female,0.5
+Spain,23,female,0.21
+United Kingdom,21,male,0.59
+France,18,male,0.74
+Italy,19,male,0.26
+Italy,23,male,0.61
+Spain,21,male,0.25
+United Kingdom,20,male,0.6
+United Kingdom,24,male,0.56
+Germany,22,female,0.53
+Ireland,24,female,0.69
+Spain,18,male,0.61
+Ireland,24,male,0.65
+Ireland,21,female,0.42
+Germany,18,male,0.43
+United Kingdom,19,male,0.69
+Italy,19,female,0.63
+Spain,24,male,0.55
+France,18,male,0.54
+Italy,19,male,0.86
+Spain,22,female,0.84
+Spain,21,female,0.48
+Italy,23,female,0.65
+Spain,23,female,0.38
+United Kingdom,20,female,0.58
+France,24,female,0.31
+Ireland,19,female,0.43
+Spain,19,male,0.54
+France,21,male,0.36
+Spain,24,female,0.65
+Italy,20,female,0.6
+France,21,female,0.34
+United Kingdom,23,male,0.59
+Germany,23,female,0.1
+Ireland,22,female,0.83
+Italy,20,male,0.68
+Spain,23,male,0.82
+United Kingdom,20,female,0.72
+Italy,24,male,0.79
+Ireland,24,female,0.73
+United Kingdom,21,female,0.42
+Spain,24,male,0.46
+Spain,21,male,0.52
+United Kingdom,18,female,0.76
+Italy,19,female,0.63
+Germany,24,female,0.63
+Ireland,18,male,0.72
+Germany,19,female,0.6
+France,22,male,0.39
+Spain,18,male,0.2
+Ireland,24,female,0.52
+France,19,female,0.49
+Spain,21,female,0.21
+Italy,24,female,0.62
+Ireland,21,female,0.7
+United Kingdom,20,male,0.62
+Italy,19,male,0.4
+France,19,female,0.68
+United Kingdom,23,male,0.56
+Spain,21,female,0.52
+Ireland,20,female,0.85
+United Kingdom,22,female,0.25
+Ireland,22,male,0.42
+United Kingdom,20,male,0.3
+Germany,20,male,0.61
+France,24,male,0.7
+United Kingdom,21,female,0.26
+United Kingdom,20,male,0.5
+France,22,female,0.2
+Italy,19,male,0.77
+Spain,21,male,0.58
+Ireland,21,male,0.7
+Ireland,20,male,0.44
+United Kingdom,18,male,0.86
+Spain,23,male,0.65
+United Kingdom,21,female,0.46
+United Kingdom,23,male,0.54
+France,23,male,0.3
+Spain,24,female,0.78
+France,23,female,0.64
+Germany,19,male,0.27
+Germany,19,male,0.78
+United Kingdom,18,male,0.3
+Spain,22,male,0.6
+France,22,male,0.62
+Italy,20,male,0.71
+Ireland,18,male,0.25
+United Kingdom,23,male,0.44
+Ireland,24,female,0.38
+Ireland,22,female,0.21
+United Kingdom,23,female,0.45
+Germany,18,male,0.61
+France,22,female,0.62
+Ireland,22,male,0.37
+Spain,22,female,0.77
+Spain,20,female,0.43
+Spain,21,male,0.58
+Italy,20,male,0.2
+Italy,19,female,0.61
+Germany,24,female,0.4
+France,24,male,0.56
+United Kingdom,19,male,0.67
+Italy,24,female,0.59
+Spain,23,female,0.71
+France,24,male,0.67
+United Kingdom,19,male,0.67
+Italy,24,female,0.61
+Germany,20,male,0.64
+Ireland,24,male,0.32
+Spain,24,male,0.69
+United Kingdom,22,female,0.82
+Ireland,22,male,0.47
+Ireland,21,female,0.54
+Ireland,19,male,0.61
+Ireland,20,male,0.16
+Spain,19,female,0.48
+France,19,male,0.77
+Spain,20,female,0.82
+United Kingdom,18,male,0.34
+Ireland,24,female,0.77
+Spain,18,female,0.79
+Germany,24,male,0.4
+Italy,22,male,0.7
+Germany,19,female,0.21
+United Kingdom,23,male,0.72
+Italy,18,female,0.67
+France,19,female,0.77
+Italy,19,male,0.95
+Germany,24,male,0.51
+France,23,female,0.6
+Germany,19,male,0.48
+Ireland,24,male,0.55
+France,21,male,0.68
+Spain,18,female,0.62
+United Kingdom,22,female,0.46
+Italy,21,female,0.6
+Germany,20,male,0.52
+France,21,male,0.58
+France,18,female,0.61
+France,23,male,0.38
+Italy,23,female,0.52
+Germany,22,female,0.47
+France,24,male,0.73
+United Kingdom,19,female,0.75
+United Kingdom,24,female,0.4
+Germany,22,female,0.23
+Italy,22,female,0.52
+Italy,21,male,0.57
+Germany,19,female,0.84
+United Kingdom,19,female,0.33
+France,19,female,0.7
+United Kingdom,18,male,0.3
+France,23,female,0.29
+Ireland,24,male,0.38
+Spain,19,male,0.36
+Italy,18,female,0.23
+United Kingdom,23,female,0.3
+France,19,female,0.32
+Italy,21,male,0.62
+Italy,24,female,0.45
+Spain,20,female,0.57
+Spain,18,female,0.79
+Ireland,22,female,0.4
+Italy,24,male,0.9
+France,19,male,0.39
+Spain,22,female,0.71
+France,23,female,0.2
+France,20,male,0.67
+Italy,21,female,0.53
+United Kingdom,24,male,0.33
+Germany,20,female,0.56
+Spain,19,female,0.74
+Ireland,20,female,0.73
+Italy,20,male,0.51
+France,22,female,0.72
+Ireland,19,male,0.4
+Germany,19,male,0.57
+Germany,21,female,0.55
+Germany,19,male,0.26
+Italy,20,male,0.73
+United Kingdom,22,female,0.56
+Germany,24,female,0.55
+Ireland,20,female,0.3
+Italy,19,female,0.4
+France,20,female,0.86
+Italy,23,male,0.58
+United Kingdom,22,male,0.3
+Germany,21,female,0.67
+United Kingdom,19,female,0.59
+France,18,female,0.94
+United Kingdom,24,male,0.14
+Spain,22,female,0.28
+Germany,18,female,0.68
+Ireland,21,female,0.1
+Germany,21,female,0.34
+France,19,male,0.53
+Spain,21,male,0.5
+Germany,21,male,0.4
+Germany,23,male,0.61
+Germany,20,female,0.5
+Spain,22,male,0.47
+United Kingdom,19,male,0.76
+Ireland,23,male,0.57
+France,21,male,0.5
+Spain,18,male,0.64
+Germany,22,male,0.35
+Italy,22,male,0.54
+Germany,18,female,0.44
+Italy,20,female,0.73
+United Kingdom,22,male,0.45
+Spain,19,female,0.61
+Ireland,22,male,0.77
+United Kingdom,19,female,0.65
+France,19,male,0.42
+France,19,male,0.66
+United Kingdom,20,male,0.69
+Italy,18,male,0.47
+Spain,18,female,0.71
+Germany,18,male,0.54
+France,18,male,0.5
+Italy,19,female,0.85
+United Kingdom,20,male,0.56
+Germany,21,male,0.76
+United Kingdom,22,male,0.48
+United Kingdom,18,female,0.85
+Italy,21,female,0.26
+Italy,22,male,0.41
+Italy,23,female,0.52
+Germany,22,female,0.72
+Italy,20,female,0.42
+Spain,19,female,0.88
+United Kingdom,21,male,0.23
+Italy,21,male,0.66
+Germany,21,female,0.76
+Ireland,20,male,0.4
+Spain,21,female,0.65
+Germany,19,female,0.78
+France,22,female,0.55
+Ireland,21,female,0.45
+France,24,male,0.88
+United Kingdom,22,female,0.2
+Italy,24,male,0.96
+France,23,male,0.85
+Ireland,23,female,0.55
+Italy,19,male,0.56
+Germany,20,female,0.53
+France,18,female,0.32
+France,22,female,0.68
+Spain,24,female,0.32
+Spain,19,female,0.47
+Spain,19,female,0.8
+United Kingdom,22,female,0.48
+Italy,19,male,0.56
+Ireland,19,female,0.49
+Italy,22,female,0.75
+United Kingdom,24,female,0.64
+Spain,21,female,0.75
+Germany,19,male,0.39
+Ireland,19,female,0.26
+Spain,24,female,0.48
+United Kingdom,19,male,0.6
+Spain,19,male,0.93
+Italy,18,female,0.53
+United Kingdom,23,female,0.76
+Spain,22,female,0.74
+United Kingdom,18,female,0.64
+Italy,23,male,0.72
+France,20,male,0.52
+Ireland,21,male,0.61
+Germany,23,female,0.63
+Italy,22,male,0.3
+France,21,female,0.65
+United Kingdom,24,male,0.77
+United Kingdom,21,male,0.78
+France,23,female,0.4
+United Kingdom,22,female,0.65
+United Kingdom,24,female,0.2
+Ireland,22,female,0.29
+Italy,18,male,0.49
+Germany,24,male,0.63
+France,22,male,0.35
+Germany,24,female,0.4
+Italy,19,male,0.2
+Italy,24,male,0.72
+United Kingdom,22,female,0.17
+Germany,21,male,0.6
+Spain,18,female,0.62
+Ireland,23,female,0.82
+United Kingdom,18,female,0.28
+United Kingdom,23,female,0.47
+Spain,23,female,0.38
+United Kingdom,24,female,0.58
+France,23,female,0.4
+France,22,female,0.7
+United Kingdom,21,male,0.67
+Italy,21,female,0.37
+Italy,22,male,0.68
+Germany,22,female,0.73
+France,21,female,0.75
+Spain,21,female,0.81
+Ireland,19,female,0.66
+Italy,22,female,0.65
+United Kingdom,20,female,0.58
+France,24,male,0.24
+United Kingdom,19,female,0.68
+Spain,21,female,0.21
+Spain,21,female,0.25
+United Kingdom,24,male,0.46
+France,23,male,0.49
+France,23,female,0.41
+Germany,22,male,0.7
+Ireland,22,female,0.46
+United Kingdom,22,female,0.86
+Italy,20,male,0.6
+Spain,21,male,0.88
+Spain,21,male,0.3
+United Kingdom,22,male,0.68
+Germany,20,male,0.5
+Ireland,19,female,0.32
+France,21,male,0.3
+Italy,24,female,0.3
+United Kingdom,24,female,0.58
+France,22,female,0.69
+Germany,19,male,0.76
+France,24,female,0.66
+Italy,23,male,0.78
+Germany,18,female,0.6
+Germany,22,female,0.51
+United Kingdom,18,female,0.75
+Spain,24,female,0.82
+Italy,19,female,0.8
+Ireland,18,female,0.5
+Germany,22,female,0.68
+France,23,male,0.64
+Ireland,18,male,0.51
+United Kingdom,23,male,0.76
+Italy,18,female,0.6
+United Kingdom,23,male,0.44
+Ireland,24,male,0.89
+Italy,18,female,0.84
+Spain,20,male,0.38
+Spain,22,male,0.86
+Germany,24,male,0.31
+United Kingdom,23,female,0.47
+Italy,20,female,0.56
+United Kingdom,23,male,0.57
+United Kingdom,23,female,0.49
+Ireland,24,male,0.58
+Italy,24,female,0.76
+Spain,18,male,0.29
+United Kingdom,22,male,0.24
+United Kingdom,24,male,0.6
+France,22,female,0.58
+Italy,18,male,0.8
+Germany,22,female,0.3
+Italy,24,female,0.7
+Germany,22,male,0.53
+Italy,21,female,0.5
+Ireland,20,male,0.65
+Italy,21,female,0.3
+France,18,male,0.76
+Ireland,18,female,0.57
+Ireland,18,female,0.91
+Spain,23,male,0.29
+Spain,21,female,0.96
+Italy,20,female,0.47
+United Kingdom,24,female,0.65
+Germany,22,male,0.3
+Germany,22,female,0.74
+Spain,24,female,0.93
+Germany,18,male,0.61
+Italy,22,female,0.63
+France,20,female,0.69
+Italy,20,male,0.3
+Germany,18,female,0.5
+Spain,20,male,0.56
+Spain,22,female,0.27
+Spain,20,female,0.52
+United Kingdom,19,male,0.52
+Germany,20,female,0.4
+France,22,female,0.65
+Italy,21,male,0.34
+France,18,male,0.27
+France,21,female,0.26
+France,20,male,0.46
+Italy,24,male,0.33
+Ireland,18,female,0.29
+Spain,22,female,0.55
+France,22,male,0.63
+Germany,19,female,0.72
+Italy,21,male,0.59
+France,19,male,0.58
+France,24,male,0.6
+France,24,male,0.68
+Italy,21,female,0.47
+Germany,22,female,0.77
+Ireland,24,female,0.68
+Germany,20,male,0.39
+Spain,22,female,0.85
+France,23,male,0.56
+United Kingdom,21,female,0.74
+Italy,19,female,0.32
+Italy,21,female,0.16
+Germany,20,male,0.74
+France,21,female,0.71
+France,21,male,0.34
+Ireland,23,male,0.48
+Spain,24,male,0.15
+United Kingdom,22,male,0.79
+Spain,20,female,0.49
+Ireland,18,male,0.88
+Spain,23,female,0.71
+Italy,19,female,0.64
+United Kingdom,24,female,0.64
+Italy,20,male,0.6
+Spain,19,male,0.5
+Italy,20,female,0.69
+Ireland,20,male,0.6
+Germany,23,male,0.59
+United Kingdom,24,male,0.62
+Italy,20,male,0.59
+Germany,19,male,0.52
+Germany,20,male,0.7
+United Kingdom,19,male,0.4
+Ireland,20,female,0.79
+United Kingdom,22,female,0.8
+Ireland,24,male,0.42
+Ireland,24,male,0.71
+Spain,19,female,0.61
+Spain,23,male,0.71
+Ireland,18,male,0.65
+United Kingdom,22,female,0.59
+Germany,18,female,0.75
+United Kingdom,21,female,0.57
+France,20,male,0.21
+Spain,18,male,0.6
+France,18,male,0.78
+Spain,23,male,0.72
+Italy,24,male,0.56
+Germany,18,female,0.3
+Ireland,21,female,0.54
+France,20,female,0.43
+United Kingdom,20,male,0.58
+Italy,21,male,0.65
+United Kingdom,18,female,0.45
+Germany,21,female,0.42
+France,21,female,0.71
+Spain,23,female,0.97
+Germany,23,female,0.61
+Ireland,24,female,0.65
+Germany,22,female,0.7
+France,19,male,0.29
+France,23,male,0.57
+France,19,female,0.69
+France,19,male,0.49
+Italy,18,male,0.5
+United Kingdom,23,male,0.86
+Spain,22,male,0.7
+Germany,22,female,0.43
+Ireland,21,female,0.11
+Germany,22,male,0.5
+France,22,male,0.5
+United Kingdom,19,female,0.52
+France,18,male,0.66
+Germany,21,male,0.36
+Italy,18,female,0.51
+Germany,24,male,0.39
+France,21,female,0.37
+France,19,male,0.49
+Spain,19,female,0.4
+France,21,female,0.65
+France,23,male,0.76
+United Kingdom,24,female,0.59
+United Kingdom,20,female,0.24
+Spain,21,male,0.66
+Ireland,23,male,0.89
+Italy,22,male,0.42
+France,21,female,0.28
+Ireland,24,male,0.66
+Spain,24,male,0.55
+Germany,21,male,0.76
+Germany,19,male,0.12
+Ireland,19,male,0.6
+United Kingdom,22,male,0.34
+Ireland,23,male,0.66
+Spain,24,female,0.61
+Ireland,23,female,0.64
+Germany,24,male,0.68
+France,22,female,0.56
+Italy,18,male,0.72
+Spain,23,female,0.62
+Italy,24,female,0.9
+Germany,20,male,0.52
+Spain,18,female,0.72
+Germany,18,male,0.26
+Ireland,19,female,0.36
+United Kingdom,19,male,0.42
+Ireland,20,male,0.6
+France,22,male,0.48
+United Kingdom,19,male,0.56
+United Kingdom,22,male,0.73
+Spain,20,male,0.5
+Spain,21,male,0.56
+Italy,20,female,0.5
+Italy,18,female,0.25
+Spain,21,male,0.61
+Spain,24,male,0.57
+Ireland,21,female,0.5
+France,23,female,0.13
+Italy,21,male,0.39
+Italy,24,male,0.75
+Ireland,22,male,0.66
+United Kingdom,24,male,0.38
+France,19,male,0.42
+Ireland,23,male,0.57
+France,19,male,0.78
+United Kingdom,21,male,0.6
+Germany,19,female,0.65
+Italy,22,female,0.77
+Italy,20,female,0.68
+United Kingdom,21,female,0.46
+United Kingdom,18,female,0.37
+Spain,18,female,0.89
+Italy,19,male,0.23
+United Kingdom,24,male,0.68
+France,21,female,0.38
+France,18,male,0.7
+Germany,19,male,0.66
+Spain,22,female,0.35
+Spain,21,male,0.53
+Germany,22,male,0.21
+Spain,22,female,0.3
+Italy,22,male,0.95
+Italy,21,male,0.71
+France,18,male,0.89
+Italy,21,male,0.63
+Germany,22,female,0.58
+Italy,19,male,0.46
+Spain,19,male,0.87
+United Kingdom,20,female,0.4
+France,22,male,0.23
+France,21,male,0.93
+Spain,23,female,0.75
+France,23,female,0.36
+United Kingdom,22,male,0.36
+Germany,22,male,0.45
+Spain,18,female,0.55
+Spain,21,female,0.4
+United Kingdom,19,female,0.89
+Ireland,19,female,0.7
+Germany,22,male,0.47
+Italy,21,male,0.45
+Germany,23,female,0.51
+Italy,21,female,0.37
+Ireland,18,female,0.75
+Italy,19,male,0.32
+Ireland,21,male,0.3
+United Kingdom,22,female,0.73
+Germany,18,female,0.82
+Spain,23,female,0.42
+Spain,19,female,0.67
+France,18,male,0.42
+Italy,20,male,0.79
+Italy,21,female,0.75
+Italy,21,male,0.35
+Germany,23,male,0.26
+Germany,20,female,0.56
+Ireland,21,female,0.32
+Spain,23,male,0.62
+Ireland,24,male,0.77
+Ireland,24,male,0.7
+United Kingdom,20,female,0.62
+France,20,female,0.73
+Spain,22,female,0.39
+Ireland,20,male,0.65
+France,21,male,0.64
+Spain,23,female,0.45
+United Kingdom,20,female,0.79
+Spain,18,female,0.64
+Ireland,21,male,0.5
+Ireland,20,male,0.51
+France,20,female,0.27
+France,19,male,0.68
+Italy,23,female,0.32
+France,22,female,0.39
+Spain,23,female,0.35
+France,21,female,0.21
+Germany,18,female,0.2
+Spain,23,female,0.45
+United Kingdom,24,female,0.53
+Spain,21,male,0.41
+United Kingdom,24,male,0.57
+United Kingdom,24,female,0.53
+Spain,23,male,0.5
+Italy,22,male,0.63
+Ireland,19,female,0.71
+France,24,male,0.6
+Italy,20,female,0.41
+Ireland,18,male,0.66
+France,21,male,0.36
+Ireland,18,female,0.47
+Italy,18,male,0.2
+Spain,20,female,0.49
+Spain,19,male,0.36
+Ireland,23,female,0.77
+United Kingdom,22,male,0.42
+Ireland,22,female,0.4
+Spain,20,male,0.4
+United Kingdom,20,male,0.6
+Spain,24,male,0.48
+Italy,21,female,0.53
+Germany,18,male,0.67
+Italy,20,male,0.25
+Italy,19,female,0.76
+Ireland,21,male,0.14
+Spain,19,female,0.54
+Germany,21,male,0.55
+Italy,20,male,0.69
+Italy,18,female,0.79
+Germany,21,female,0.75
+France,24,female,0.22
+Spain,20,male,0.48
+Italy,22,female,0.7
+Italy,22,female,0.35
+Ireland,21,female,0.37
+Spain,22,female,0.74
+Germany,21,female,0.76
+Spain,22,male,0.37
+Germany,18,male,0.25
+Germany,21,male,0.4
+France,20,male,0.4
+United Kingdom,18,female,0.5
+Ireland,24,male,0.78
+France,18,male,0.49
+Italy,24,male,0.73
+Germany,24,female,0.58
+Ireland,21,male,0.65
+Spain,23,male,0.51
+Spain,23,male,0.4
+Italy,24,female,0.89
+Italy,21,female,0.5
+Spain,23,female,0.73
+Ireland,20,male,0.71
+Spain,22,female,0.47
+United Kingdom,24,female,0.52
+France,20,female,0.27
+Ireland,23,female,0.43
+Spain,18,male,0.56
+Germany,24,female,0.62
+United Kingdom,22,female,0.4
+France,18,male,0.48
+Germany,24,female,0.53
+Germany,22,female,0.4
+Italy,24,female,0.77
+Italy,23,female,0.2
+France,19,male,0.44
+France,21,female,0.64
+United Kingdom,22,male,0.46
+Germany,24,male,0.61
+Spain,18,female,0.49
+France,21,female,0.52
+Germany,20,female,0.17
+Germany,24,female,0.5
+Spain,24,female,0.63
+United Kingdom,24,female,0.38
+Spain,21,male,0.66
+United Kingdom,19,male,0.33
+United Kingdom,20,male,0.54
+Spain,20,female,0.67
+Germany,21,male,0.4
+United Kingdom,21,male,0.38
+United Kingdom,20,male,0.5
+Italy,20,male,0.62
+Italy,21,male,0.42
+United Kingdom,19,female,0.71
+United Kingdom,22,female,0.6
+Spain,24,male,0.8
+France,24,male,0.58
+Ireland,24,male,0.69
+United Kingdom,20,male,0.72
+Ireland,24,female,0.66
+France,22,female,0.51
+United Kingdom,24,female,0.6
+Ireland,22,male,0.22
+Germany,19,male,0.72
+Germany,21,male,0.2
+Germany,24,male,0.43
+Italy,22,male,0.66
+Ireland,22,male,0.21
+Italy,23,male,0.88
+Italy,19,female,0.7
+Italy,18,female,0.67
+Italy,18,male,0.35
+United Kingdom,20,female,0.55
+Italy,21,male,0.77
+France,24,female,0.5
+France,20,female,0.6
+Spain,20,male,0.61
+Italy,23,male,0.66
+United Kingdom,20,male,0.82
+France,23,male,0.11
+Spain,21,female,0.45
+France,22,female,0.35
+United Kingdom,23,male,0.53
+France,22,female,0.36
+France,20,female,0.22
+France,24,female,0.49
+Spain,21,female,0.78
+Germany,20,female,0.48
+Germany,23,male,0.3
+Germany,23,male,0.46
+Germany,24,male,0.52
+United Kingdom,19,female,0.68
+Spain,20,male,0.28
+Italy,23,male,0.43
+Germany,24,female,0.65
+France,18,male,0.31
+Ireland,24,female,0.57
+Spain,23,female,0.55
+Spain,18,female,0.57
+Ireland,18,male,0.21
+Spain,24,male,0.6
+Ireland,20,female,0.39
+Spain,18,female,0.6
+United Kingdom,23,male,0.42
+France,18,male,0.13
+Italy,20,male,0.43
+Ireland,19,male,0.69
+Spain,18,male,0.62
+Ireland,19,female,0.74
+France,19,female,0.58
+Italy,21,female,0.8
+Germany,22,male,0.29
+Spain,18,male,0.23
+Ireland,24,male,0.54
+Ireland,18,female,0.9
+United Kingdom,22,male,0.47
+France,22,female,0.62
+Germany,24,female,0.28
+Ireland,22,female,0.22
+Ireland,19,female,0.54
+Germany,22,male,0.56
+France,20,female,0.73
+Germany,18,female,0.2
+Spain,18,male,0.5
+France,24,male,0.4
+Italy,24,female,0.66
+Spain,18,female,0.51
+Italy,19,female,0.82
+Italy,19,male,0.89
+United Kingdom,21,male,0.47
+Germany,23,female,0.58
+Italy,23,male,0.71
+Italy,24,male,0.4
+Italy,18,female,0.76
+Spain,20,male,0.26
+Spain,24,female,0.6
+Italy,18,male,0.76
+Germany,20,male,0.61
+Spain,24,female,0.4
+United Kingdom,20,female,0.39
+Italy,19,male,0.44
+Italy,18,male,0.77
+Ireland,21,female,0.47
+Ireland,22,female,0.47
+United Kingdom,23,female,0.52
+Ireland,24,female,0.48
+France,24,female,0.6
+Germany,18,male,0.4
+Italy,18,female,0.57
+France,24,female,0.88
+Germany,22,male,0.3
+Ireland,22,male,0.6
+Italy,24,male,0.65
+Italy,24,female,0.63
+United Kingdom,24,male,0.53
+Italy,21,male,0.72
+Germany,20,female,0.6
+United Kingdom,18,male,0.58
+France,20,male,0.53
+Germany,23,female,0.37
+United Kingdom,21,female,0.83
+Ireland,24,female,0.77
+Germany,21,male,0.21
+Spain,19,female,0.81
+Ireland,24,female,0.79
+Italy,22,female,0.88
+Italy,22,male,0.55
+Ireland,20,female,0.46
+United Kingdom,18,male,0.2
+Spain,24,female,0.73
+Italy,19,female,0.27
+Spain,20,male,0.43
+Germany,21,female,0.74
+Italy,20,female,0.91
+Italy,20,female,0.1
+Germany,21,male,0.46
+Germany,20,male,0.56
+Germany,21,female,0.65
+Ireland,18,female,0.6
+United Kingdom,24,male,0.27
+Italy,19,female,0.38
+Italy,20,female,0.24
+United Kingdom,21,female,0.87
+Italy,22,female,0.2
+Spain,18,male,0.59
+Spain,22,female,0.6
+United Kingdom,21,female,0.73
+France,24,male,0.52
+Spain,18,male,0.64
+Germany,20,male,0.7
+France,22,female,0.63
+Spain,18,female,0.24
+Ireland,22,male,0.47
+United Kingdom,18,female,0.36
+Spain,21,female,0.67
+Germany,24,male,0.38
+Italy,20,female,0.18
+Spain,24,male,0.66
+France,18,female,0.65
+Ireland,23,male,0.5
+Spain,19,male,0.57
+Italy,24,female,0.6
+Spain,20,male,0.42
+Spain,22,male,0.39
+Spain,23,male,0.77
+Germany,21,female,0.48
+France,22,female,0.36
+Spain,19,male,0.59
+United Kingdom,21,male,0.4
+France,23,male,0.97
+Germany,19,female,0.73
+United Kingdom,20,female,0.41
+United Kingdom,21,male,0.29
+United Kingdom,18,male,0.12
+Spain,21,male,0.61
+United Kingdom,19,male,0.72
+Ireland,21,male,0.45
+Spain,22,female,0.8
+France,24,male,0.84
+United Kingdom,18,male,0.58
+France,24,male,0.43
+Italy,19,female,0.61
+France,19,male,0.44
+United Kingdom,20,female,0.38
+Italy,20,male,0.43
+Germany,18,female,0.66
+United Kingdom,19,female,0.22
+United Kingdom,24,male,0.9
+France,21,female,0.65
+Ireland,20,male,0.4
+Ireland,22,female,0.4
+United Kingdom,21,male,0.48
+Italy,20,male,0.88
+France,21,female,0.59
+France,20,female,0.97
+Germany,24,male,0.39
+United Kingdom,22,female,0.77
+Spain,23,male,0.61
+Italy,18,female,0.71
+United Kingdom,19,male,0.77
+Ireland,18,male,0.54
+Spain,18,female,0.6
+Ireland,24,female,0.46
+Germany,19,male,0.49
+France,19,male,0.25
+France,18,female,0.66
+Spain,18,female,0.61
+United Kingdom,22,male,0.79
+France,20,male,0.56
+Germany,23,female,0.26
+Italy,23,female,0.25
+Germany,19,male,0.29
+France,22,male,0.34
+Germany,19,male,0.5
+Italy,21,female,0.73
+Germany,22,male,0.4
+France,21,female,0.53
+Ireland,18,female,0.62
+United Kingdom,23,male,0.7
+Ireland,18,female,0.21
+Ireland,19,female,0.48
+United Kingdom,20,male,0.99
+Ireland,21,female,0.67
+United Kingdom,20,male,0.22
+United Kingdom,22,female,0.67
+Ireland,24,male,0.56
+Italy,18,male,0.36
+Spain,19,female,0.89
+Italy,24,female,0.62
+Spain,20,male,0.72
+Ireland,23,female,0.69
+Italy,22,male,0.68
+Germany,23,male,0.62
+United Kingdom,20,female,0.23
+Spain,20,female,0.38
+Italy,18,female,0.45
+Ireland,19,female,0.68
+Ireland,20,male,0.64
+France,23,female,0.66
+United Kingdom,22,female,0.6
+Ireland,20,female,0.67
+Spain,23,male,0.65
+Germany,18,female,0.71
+Spain,23,male,0.72
+Italy,19,male,0.55
+United Kingdom,23,female,0.59
+Italy,24,female,0.58
+Spain,24,female,0.2
+United Kingdom,24,female,0.87
+Ireland,22,male,0.39
+Italy,19,female,0.35
+France,23,female,0.81
+France,21,female,0.64
+Spain,18,male,0.66
+United Kingdom,24,male,0.81
+Italy,20,male,0.35
+Italy,18,male,0.55
+Italy,24,male,0.46
+Ireland,20,male,0.67
+France,18,female,0.69
+Italy,24,female,0.52
+Spain,21,male,0.36
+Germany,24,male,0.84
+France,21,male,0.82
+Ireland,24,female,0.71
+Italy,18,female,0.49
+Spain,22,male,0.39
+United Kingdom,20,female,0.33
+Spain,20,female,0.9
+Ireland,20,male,0.55
+Italy,21,female,0.64
+France,20,female,0.68
+Spain,23,female,0.57
+Italy,18,male,0.64
+United Kingdom,24,female,0.14
+United Kingdom,19,female,0.62
+Spain,22,female,0.77
+United Kingdom,24,female,0.47
+Germany,19,male,0.3
+Germany,19,female,0.5
+Italy,24,male,0.55
+Italy,21,female,0.2
+Germany,19,female,0.65
+Germany,22,male,0.42
+United Kingdom,22,male,0.4
+United Kingdom,22,female,0.74
+France,24,male,0.59
+Ireland,22,female,0.7
+Germany,19,female,0.69
+Spain,20,female,0.79
+Ireland,23,male,0.65
+Italy,20,male,0.4
+France,19,male,0.64
+Ireland,18,male,0.2
+Germany,22,female,0.23
+France,18,male,0.82
+Spain,23,female,0.41
+France,24,female,0.44
+Spain,23,male,0.43
+United Kingdom,18,female,0.64
+Ireland,21,female,0.9
+Ireland,21,female,0.1
+United Kingdom,24,female,0.22
+Ireland,22,female,0.81
+Germany,23,male,0.77
+Ireland,18,male,0.57
+United Kingdom,22,female,0.89
+Ireland,20,male,0.54
+Germany,21,female,0.47
+United Kingdom,23,female,0.78
+United Kingdom,22,male,0.71
+France,20,male,0.19
+United Kingdom,20,male,0.74
+France,19,male,0.5
+Spain,22,male,0.66
+United Kingdom,23,male,0.4
+Italy,20,female,0.77
+Ireland,18,female,0.61
+Spain,19,female,0.6
+France,23,female,0.37
+United Kingdom,18,female,0.51
+Italy,24,female,0.79
+United Kingdom,24,male,0.6
+Spain,18,female,0.4
+Germany,21,female,0.54
+Spain,18,female,0.61
+Germany,22,female,0.86
+Ireland,22,male,0.41
+Spain,22,male,0.69
+Germany,21,female,0.54
+Ireland,22,male,0.32
+Spain,21,male,0.3
+Germany,20,male,0.3
+United Kingdom,20,female,0.2
+Italy,20,female,0.89
+Germany,21,male,0.82
+United Kingdom,20,male,0.64
+United Kingdom,24,male,0.44
+Italy,22,male,0.64
+Spain,24,male,0.76
+United Kingdom,23,female,0.49
+Ireland,18,male,0.5
+United Kingdom,18,male,0.51
+Germany,22,female,0.4
+Italy,20,male,0.65
+Ireland,18,female,0.51
+Spain,18,female,0.2
+United Kingdom,22,male,0.21
+Ireland,20,male,0.3
+Germany,23,male,0.52
+Spain,18,female,0.42
+United Kingdom,24,female,0.29
+France,19,male,0.72
+Germany,24,female,0.2
+France,18,female,0.25
+Germany,24,female,0.51
+Italy,23,female,0.58
+Spain,23,male,0.41
+United Kingdom,19,male,0.66
+France,24,female,0.7
+Ireland,19,male,0.63
+France,18,male,0.6
+Spain,22,female,0.2
+Italy,21,male,0.54
+Ireland,22,male,0.31
+Italy,18,male,0.4
+Spain,18,male,0.64
+Spain,24,female,0.4
+United Kingdom,18,female,0.41
+Ireland,19,female,0.41
+Spain,18,male,0.67
+Spain,20,male,0.58
+France,18,female,0.43
+Italy,22,male,0.95
+United Kingdom,22,female,0.27
+United Kingdom,18,male,0.33
+Germany,24,female,0.82
+United Kingdom,18,male,0.66
+Italy,19,female,0.34
+Italy,24,female,0.46
+Ireland,18,male,0.31
+United Kingdom,22,male,0.53
+Italy,22,female,0.98
+Spain,23,male,0.73
+United Kingdom,21,female,0.73
+Spain,21,male,0.86
+France,18,female,0.33
+United Kingdom,21,female,0.12
+Ireland,23,female,0.55
+Ireland,18,male,0.7
+France,22,female,0.42
+Germany,22,male,0.72
+France,19,female,0.7
+Spain,18,male,0.42
+Germany,21,male,0.6
+Ireland,20,male,0.5
+Spain,20,female,0.81
+United Kingdom,23,female,0.7
+Germany,19,female,0.36
+France,23,female,0.81
+Germany,24,male,0.41
+Italy,24,male,0.32
+Ireland,18,male,0.8
+Germany,21,female,0.61
+United Kingdom,22,female,0.29
+France,21,female,0.6
+Ireland,19,male,0.26
+Ireland,19,female,0.5
+Germany,24,female,0.26
+United Kingdom,19,male,0.66
+Italy,24,female,0.48
+Spain,21,female,0.75
+Germany,23,female,0.49
+Germany,24,male,0.75
+Ireland,22,female,0.88
+Italy,21,male,0.64
+France,20,female,0.54
+Spain,20,male,0.62
+Germany,18,female,0.23
+Ireland,20,female,0.98
+United Kingdom,21,male,0.7
+France,24,male,0.71
+Spain,24,female,0.8
+United Kingdom,22,male,0.52
+Spain,22,female,0.54
+United Kingdom,21,female,0.4
+Germany,19,female,0.87
+United Kingdom,22,male,0.62
+Germany,22,male,0.27
+Germany,20,female,0.11
+Spain,20,male,0.73
+France,21,female,0.6
+Germany,20,male,0.51
+Ireland,19,male,0.44
+Italy,22,male,0.71
+Italy,24,female,0.87
+Italy,23,male,0.45
+France,19,female,0.59
+United Kingdom,19,female,0.79
+United Kingdom,23,female,0.65
+United Kingdom,18,female,0.75
+France,24,male,0.6
+United Kingdom,20,male,0.53
+Spain,24,male,0.46
+Germany,22,male,0.75
+France,24,female,0.67
+Italy,19,male,0.6
+Ireland,23,male,0.83
+Germany,22,female,0.63
+Spain,18,female,0.52
+United Kingdom,20,male,0.34
+Spain,19,female,0.48
+Spain,19,male,0.46
+Italy,24,female,0.68
+Italy,20,male,0.5
+Italy,22,male,0.74
+France,18,male,0.54
+Italy,20,female,0.5
+France,23,female,0.2
+France,22,female,0.44
+Germany,18,female,0.55
+Spain,21,male,0.49
+Germany,20,male,0.27
+Germany,19,male,0.7
+Ireland,19,male,0.72
+Italy,21,female,0.3
+France,18,female,0.5
+Italy,23,male,0.75
+France,23,male,0.75
+Italy,20,male,0.63
+Ireland,24,female,0.36
+Germany,24,male,0.48
+Italy,23,female,0.66
+United Kingdom,18,female,0.3
+Italy,22,male,0.36
+Spain,22,female,0.43
+United Kingdom,20,female,0.64
+Italy,23,female,0.6
+United Kingdom,19,male,0.43
+France,21,male,0.74
+Ireland,24,female,0.59
+France,21,male,0.75
+France,18,female,0.26
+Ireland,23,male,0.6
+France,19,female,0.89
+Germany,20,male,0.34
+Spain,19,female,0.24
+Italy,19,female,0.29
+Germany,22,male,0.3
+France,22,male,0.88
+United Kingdom,19,male,0.51
+France,20,male,0.48
+Ireland,20,male,0.28
+Germany,18,female,0.23
+Germany,22,female,0.75
+United Kingdom,24,male,0.53
+Ireland,20,male,0.39
+Spain,20,female,0.78
+Ireland,22,female,0.59
+Germany,21,female,0.79
+Ireland,21,male,0.7
+Spain,23,female,0.67
+Spain,24,female,0.33
+Ireland,20,female,0.8
+Germany,19,female,0.67
+France,20,male,0.4
+Spain,24,female,0.75
+United Kingdom,19,female,0.57
+United Kingdom,20,male,0.61
+Ireland,23,male,0.41
+Germany,21,female,0.51
+Germany,21,male,0.59
+France,23,male,0.85
+United Kingdom,18,male,0.78
+Ireland,20,female,0.78
+United Kingdom,21,male,0.47
+Germany,23,female,0.1
+Ireland,21,male,0.4
+Italy,23,male,0.65
+France,18,male,0.69
+Spain,22,female,0.21
+United Kingdom,20,female,0.7
+United Kingdom,22,female,0.15
+Germany,24,female,0.67
+Italy,21,male,0.59
+France,23,male,0.67
+United Kingdom,19,male,0.77
+Germany,24,female,0.33
+Ireland,23,female,0.63
+Spain,18,male,0.87
+Spain,21,female,0.36
+Germany,21,female,0.64
+Spain,20,female,0.66
+Italy,22,male,0.61
+Germany,22,female,0.55
+Ireland,23,male,0.21
+Ireland,21,female,0.72
+Spain,20,male,0.59
+France,18,male,0.58
+Italy,22,female,0.67
+United Kingdom,23,male,0.23
+Germany,20,male,0.76
+Germany,24,female,0.39
+Ireland,18,male,0.53
+United Kingdom,19,male,0.46
+Italy,21,female,0.25
+Italy,18,male,0.52
+France,20,male,0.32
+United Kingdom,20,male,0.67
+Ireland,19,male,0.56
+Ireland,19,female,0.63
+Italy,20,male,0.52
+Italy,18,female,0.34
+Ireland,20,female,0.52
+Italy,19,female,0.45
+Spain,22,female,0.4
+Ireland,21,male,0.87
+France,20,female,0.55
+United Kingdom,23,female,0.2
+Italy,20,female,0.2
+France,23,female,0.53
+Italy,18,female,0.71
+United Kingdom,18,male,0.28
+United Kingdom,19,male,0.43
+Germany,18,female,0.45
+United Kingdom,19,male,0.4
+Germany,22,female,0.79
+Italy,19,male,0.42
+France,18,male,0.45
+Germany,18,female,0.77
+Germany,22,female,0.76
+France,23,male,0.8
+Spain,23,female,0.35
+France,21,female,0.75
+Italy,24,female,0.35
+Spain,23,female,0.67
+Italy,19,female,0.59
+Ireland,20,female,0.29
+Italy,19,male,0.73
+United Kingdom,22,female,0.3
+Italy,19,female,0.75
+France,20,male,0.6
+United Kingdom,18,female,0.84
+Germany,20,female,0.69
+Spain,23,female,0.56
+France,19,male,0.32
+Germany,19,female,0.65
+Spain,22,female,0.74
+United Kingdom,21,female,0.3
+Italy,22,female,0.65
+Spain,24,male,0.77
+Italy,20,female,0.54
+Ireland,21,female,0.55
+Italy,20,female,0.6
+Ireland,20,male,0.66
+France,19,female,0.51
+Germany,18,female,0.57
+France,20,male,0.47
+France,22,male,0.67
+Spain,24,female,0.81
+Ireland,18,male,0.8
+Germany,18,male,0.31
+United Kingdom,19,female,0.55
+Spain,20,female,0.26
+Italy,21,male,0.39
+Spain,24,male,0.62
+Germany,19,male,0.48
+Germany,19,male,0.61
+United Kingdom,22,female,0.55
+France,24,female,0.65
+Ireland,24,female,0.67
+Ireland,18,male,0.7
+Ireland,23,female,0.65
+Ireland,20,male,0.39
+United Kingdom,21,male,0.13
+Germany,21,female,0.64
+Germany,19,male,0.37
+Italy,24,female,0.85
+Germany,22,male,0.87
+France,18,male,0.7
+United Kingdom,19,male,0.76
+Spain,20,female,0.41
+Italy,19,female,0.54
+Ireland,18,female,0.55
+United Kingdom,20,male,0.61
+France,20,male,0.42
+France,23,female,0.67
+Ireland,21,male,0.5
+Spain,20,female,0.27
+Germany,18,male,0.68
+Germany,18,male,0.36
+Ireland,24,female,0.4
+Spain,22,male,0.58
+Germany,22,male,0.5
+Spain,22,female,0.46
+Spain,24,male,0.17
+France,24,female,0.31
+France,18,female,0.55
+Spain,21,male,0.52
+Ireland,24,male,0.89
+Italy,18,male,0.56
+Germany,23,female,0.69
+Italy,18,male,0.39
+Spain,23,female,0.86
+France,23,female,0.69
+Spain,18,female,0.54
+Spain,20,female,0.59
+France,23,female,0.43
+Italy,20,female,0.72
+France,24,female,0.59
+United Kingdom,21,female,0.85
+United Kingdom,18,female,0.56
+United Kingdom,20,male,0.33
+Ireland,21,male,0.2
+Ireland,21,female,0.69
+France,24,female,0.27
+Germany,23,female,0.47
+Ireland,21,male,0.43
+Spain,22,female,0.73
+United Kingdom,21,female,0.4
+France,22,male,0.78
+United Kingdom,18,female,0.38
+Ireland,19,male,0.63
+France,21,female,0.3
+United Kingdom,21,female,0.83
+France,24,male,0.51
+Germany,20,male,0.33
+Germany,24,male,0.79
+United Kingdom,21,male,0.19
+Germany,20,male,0.77
+United Kingdom,24,male,0.73
+France,23,male,0.64
+Spain,21,male,0.63
+United Kingdom,22,female,0.27
+Italy,23,male,0.41
+Ireland,19,male,0.1
+France,21,male,0.37
+Spain,19,female,0.52
+Spain,20,male,0.57
+Italy,23,female,0.42
+Spain,20,male,0.86
+Ireland,21,female,0.85
+Ireland,24,female,0.56
+United Kingdom,24,female,0.7
+United Kingdom,23,male,0.86
+Germany,24,female,0.71
+Italy,19,male,0.6
+Germany,19,female,0.74
+France,22,male,0.22
+Germany,20,female,0.71
+United Kingdom,18,female,0.84
+United Kingdom,19,male,0.65
+Spain,19,male,0.5
+Italy,20,female,0.34
+Spain,21,female,0.55
+Italy,24,male,0.58
+Ireland,18,male,0.49
+United Kingdom,23,female,0.37
+Germany,23,female,0.47
+Ireland,19,male,0.29
+Germany,20,male,0.83
+France,21,female,0.72
+Italy,19,male,0.5
+United Kingdom,24,male,0.21
+Ireland,18,female,0.39
+Germany,18,male,0.48
+Spain,21,male,0.64
+United Kingdom,20,female,0.52
+Italy,19,female,0.86
+United Kingdom,20,female,0.31
+Italy,23,female,0.66
+Germany,19,female,0.6
+Italy,20,female,0.27
+Italy,19,male,0.72
+Italy,23,male,0.12
+Germany,22,male,0.52
+Spain,21,female,0.8
+Ireland,24,male,0.66
+France,23,male,0.88
+France,24,male,0.85
+Ireland,22,male,0.53
+United Kingdom,20,male,0.48
+Spain,20,female,0.54
+Italy,20,male,0.48
+Ireland,22,female,0.5
+Spain,23,female,0.32
+Spain,22,male,0.38
+France,22,female,0.8
+United Kingdom,23,female,0.77
+Germany,20,male,0.87
+France,20,male,0.3
+United Kingdom,23,male,0.78
+France,23,female,0.84
+United Kingdom,23,female,0.68
+Ireland,20,male,0.12
+Italy,23,male,0.54
+United Kingdom,20,male,0.68
+Ireland,22,male,0.29
+Italy,22,male,0.2
+France,23,female,0.22
+Italy,21,female,0.47
+France,21,male,0.75
+France,22,female,0.2
+Spain,20,male,0.3
+Italy,24,male,0.39
+France,22,female,0.53
+Germany,24,female,0.52
+Germany,22,female,0.73
+Ireland,22,female,0.61
+Ireland,19,female,0.61
+Italy,24,female,0.72
+Ireland,18,male,0.73
+United Kingdom,22,female,0.44
+Spain,19,female,0.25
+Ireland,24,male,0.7
+Spain,20,female,0.17
+Ireland,22,female,0.7
+Germany,19,female,0.3
+United Kingdom,22,female,0.52
+Italy,24,male,0.21
+Germany,19,male,0.44
+Germany,22,female,0.52
+United Kingdom,20,female,0.71
+Germany,19,female,0.78
+France,20,female,0.38
+Italy,19,female,0.45
+France,22,female,0.25
+Ireland,21,female,0.64
+United Kingdom,19,female,0.44
+Germany,20,female,0.74
+United Kingdom,19,male,0.12
+France,21,female,0.33
+Germany,20,male,0.88
+Italy,22,female,0.79
+Spain,22,male,0.75
+Ireland,23,female,0.87
+Germany,22,male,0.51
+Ireland,19,male,0.35
+Spain,19,male,0.79
+Italy,18,female,0.62
+Spain,24,male,0.63
+Spain,21,female,0.88
+United Kingdom,22,male,0.77
+Ireland,21,female,0.71
+Germany,23,female,0.44
+Ireland,19,female,0.3
+Germany,18,female,0.52
+Italy,19,female,0.59
+United Kingdom,18,male,0.27
+United Kingdom,19,female,0.61
+Italy,18,female,0.64
+France,22,female,0.63
+United Kingdom,23,male,0.63
+France,21,male,0.91
+France,21,male,0.41
+Germany,21,male,0.79
+United Kingdom,19,male,0.46
+France,23,female,0.77
+Germany,18,female,0.8
+France,19,female,0.21
+Germany,22,female,0.36
+Italy,18,female,0.25
+Germany,22,female,0.82
+Germany,20,male,0.69
+France,22,female,0.3
+Ireland,20,male,0.85
+Spain,23,female,0.54
+United Kingdom,19,male,0.64
+France,20,female,0.68
+United Kingdom,22,male,0.8
+Italy,23,male,0.5
+Italy,19,female,0.45
+Ireland,18,female,0.62
+Italy,22,female,0.45
+Spain,18,female,0.46
+Ireland,24,female,0.68
+Germany,18,male,0.35
+Spain,18,male,0.77
+Germany,18,female,0.68
+United Kingdom,23,male,0.57
+Germany,21,male,0.4
+Italy,24,female,0.89
+Italy,24,male,0.62
+France,20,male,0.5
+Germany,22,female,0.65
+Spain,19,male,0.87
+United Kingdom,21,male,0.34
+Ireland,19,male,0.67
+United Kingdom,18,female,0.5
+Italy,18,female,0.65
+United Kingdom,18,male,0.24
+Ireland,18,male,0.54
+Ireland,18,female,0.31
+United Kingdom,22,female,0.74
+Ireland,20,female,0.53
+France,22,male,0.56
+Ireland,20,male,0.4
+Germany,24,male,0.2
+France,18,female,0.38
+France,24,male,0.61
+Spain,22,female,0.2
+United Kingdom,24,female,0.89
+Ireland,22,female,0.7
+United Kingdom,24,male,0.69
+France,21,male,0.8
+Spain,24,male,0.39
+France,22,male,0.5
+United Kingdom,21,female,0.6
+Germany,22,female,0.31
+Ireland,19,male,0.68
+Germany,19,female,0.26
+Ireland,22,female,0.46
+Germany,18,male,0.78
+Ireland,19,male,0.51
+Ireland,20,female,0.6
+Ireland,23,male,0.51
+Italy,18,female,0.21
+Spain,24,female,0.1
+Germany,21,female,0.46
+France,22,male,0.65
+Spain,23,male,0.8
+Italy,20,female,0.71
+Ireland,21,male,0.48
+Italy,20,female,0.62
+France,24,male,0.43
+Ireland,19,female,0.31
+France,23,male,0.68
+Ireland,18,male,0.4
+Italy,20,male,0.83
+United Kingdom,24,female,0.8
+France,24,male,0.82
+France,22,female,0.12
+Ireland,20,male,0.49
+Italy,19,female,0.56
+France,21,female,0.57
+Germany,21,male,0.89
+United Kingdom,21,male,0.31
+Italy,23,male,0.7
+Spain,20,male,0.42
+United Kingdom,21,female,0.79
+Ireland,23,male,0.6
+Ireland,23,female,0.35
+Germany,22,male,0.77
+United Kingdom,23,female,0.33
+Italy,24,female,0.43
+United Kingdom,23,female,0.28
+France,19,male,0.59
+Spain,24,female,0.53
+Ireland,21,male,0.84
+United Kingdom,22,female,0.8
+Italy,18,male,0.44
+Spain,24,male,0.23
+Spain,18,male,0.64
+Germany,20,female,0.65
+Spain,21,female,0.77
+Italy,20,male,0.56
+Italy,22,female,0.75
+France,19,male,0.14
+United Kingdom,24,female,0.77
+United Kingdom,24,female,0.41
+Ireland,20,female,0.41
+Spain,20,male,0.95
+Ireland,21,male,0.5
+United Kingdom,18,male,0.48
+Germany,20,male,0.3
+Italy,22,male,0.21
+Italy,22,male,0.44
+Spain,18,female,0.64
+Germany,22,male,0.82
+France,23,female,0.5
+Spain,24,female,0.51
+Spain,23,female,0.53
+Ireland,22,male,0.71
+France,19,male,0.76
+Ireland,21,female,0.61
+Italy,21,male,0.43
+United Kingdom,21,male,0.51
+United Kingdom,24,female,0.44
+Italy,22,female,0.8
+France,21,male,0.36
+France,24,female,0.51
+Italy,18,female,0.8
+Ireland,24,male,0.71
+Spain,18,male,0.74
+France,22,male,0.6
+Germany,22,male,0.24
+United Kingdom,23,male,0.78
+Spain,18,male,0.6
+United Kingdom,18,female,0.53
+Italy,20,male,0.68
+Ireland,21,female,0.73
+Germany,19,male,0.3
+United Kingdom,20,male,0.64
+Ireland,22,female,0.74
+Italy,20,female,0.56
+United Kingdom,23,female,0.54
+France,24,male,0.57
+Germany,18,female,0.83
+United Kingdom,22,female,0.28
+Spain,23,female,0.72
+Ireland,22,male,0.8
+France,18,male,0.61
+United Kingdom,18,female,0.85
+France,21,female,0.34
+Italy,23,female,0.2
+Ireland,19,male,0.64
+France,24,male,0.74
+France,23,female,0.79
+United Kingdom,24,female,0.59
+France,21,female,0.65
+United Kingdom,22,male,0.34
+Spain,23,female,0.49
+Germany,22,male,0.63
+Spain,21,female,0.47
+United Kingdom,20,male,0.13
+Ireland,24,female,0.93
+Germany,22,female,0.5
+Ireland,20,male,0.86
+France,20,male,0.43
+France,24,male,0.74
+France,19,male,0.38
+Spain,21,male,0.84
+Germany,20,male,0.91
+Italy,19,male,0.54
+Germany,18,female,0.43
+Germany,21,male,0.65
+Ireland,21,male,0.48
+Ireland,23,male,0.44
+Italy,21,female,0.5
+France,24,male,0.72
+Germany,22,female,0.56
+Ireland,19,male,0.57
+Ireland,19,female,0.66
+Germany,18,female,0.55
+Spain,20,male,0.89
+Italy,21,male,0.61
+Germany,24,male,0.47
+Spain,20,male,0.34
+Spain,24,female,0.1
+Italy,18,female,0.74
+France,21,male,0.27
+France,19,female,0.84
+Ireland,23,female,0.42
+Italy,24,female,0.77
+United Kingdom,24,female,0.43
+Spain,19,female,0.55
+France,18,male,0.68
+France,18,female,0.5
+United Kingdom,23,male,0.61
+Germany,22,male,0.78
+Italy,19,female,0.79
+Italy,18,female,0.53
+Italy,20,male,0.9
+France,24,male,0.43
+France,20,male,0.39
+Germany,23,male,0.83
+France,19,male,0.72
+Italy,20,female,0.62
+United Kingdom,22,female,0.48
+Spain,21,male,0.88
+France,24,female,0.4
+Italy,20,male,0.78
+Germany,23,female,0.2
+France,22,male,0.42
+France,24,female,0.37
+Germany,23,male,0.81
+United Kingdom,24,male,0.67
+France,18,female,0.79
+Ireland,23,female,0.38
+Germany,20,female,0.8
+Spain,23,female,0.31
+United Kingdom,20,female,0.1
+Germany,23,female,0.58
+Germany,24,female,0.7
+United Kingdom,20,female,0.82
+France,22,male,0.4
+Spain,18,male,0.63
+Ireland,19,male,0.61
+France,18,male,0.41
+Germany,18,male,0.4
+Germany,18,male,0.87
+Spain,19,female,0.77
+Italy,21,male,0.5
+United Kingdom,18,male,0.4
+Ireland,24,male,0.33
+Italy,21,female,0.7
+Italy,18,male,0.7
+Ireland,24,female,0.65
+Germany,19,female,0.6
+United Kingdom,22,female,0.72
+United Kingdom,20,male,0.63
+Germany,18,male,0.6
+Spain,18,male,0.82
+United Kingdom,22,male,0.7
+Ireland,18,female,0.99
+United Kingdom,19,male,0.81
+Ireland,18,male,0.62
+Ireland,22,male,0.61
+United Kingdom,24,male,0.41
+France,19,female,0.5
+France,22,female,0.81
+United Kingdom,20,female,0.45
+Ireland,20,male,0.82
+Spain,19,female,0.35
+France,23,female,0.4
+Ireland,19,male,0.43
+Italy,21,male,0.76
+Italy,23,male,0.84
+Ireland,24,female,0.7
+Germany,21,male,0.71
+France,22,male,0.32
+United Kingdom,23,female,0.36
+Spain,20,female,0.29
+France,21,female,0.16
+Germany,20,female,0.71
+Spain,22,male,0.86
+United Kingdom,21,female,0.34
+France,23,male,0.28
+France,18,male,0.55
+Ireland,22,male,0.58
+Germany,24,female,0.76
+France,22,male,0.61
+Ireland,22,male,0.66
+Spain,23,female,0.54
+France,24,male,0.5
+United Kingdom,19,female,0.61
+Ireland,18,male,0.27
+Ireland,20,female,0.3
+Germany,22,female,0.67
+Ireland,23,female,0.31
+Spain,20,female,0.61
+Spain,23,male,0.68
+Italy,19,female,0.68
+France,18,female,0.62
+Ireland,21,male,0.4
+United Kingdom,20,female,0.53
+Italy,22,female,0.48
+Spain,19,male,0.7
+Ireland,24,female,0.79
+Germany,18,female,0.49
+Ireland,20,male,0.63
+Germany,20,female,0.61
+Germany,24,male,0.89
+Germany,24,female,0.55
+Italy,24,female,0.38
+Ireland,20,male,0.49
+Italy,21,male,0.8
+Ireland,24,male,0.29
+France,21,female,0.53
+Italy,19,male,0.4
+United Kingdom,24,male,0.6
+Spain,24,female,0.49
+Spain,20,female,0.81
+Germany,24,female,0.64
+United Kingdom,23,male,0.54
+Italy,21,male,0.84
+Ireland,22,male,0.71
+Italy,24,male,0.21
+France,20,male,0.89
+United Kingdom,19,male,0.64
+Spain,23,male,0.29
+Germany,20,male,0.75
+Ireland,24,male,0.76
+Ireland,20,female,0.12
+Italy,20,male,0.55
+Spain,20,male,0.61
+Italy,24,male,0.57
+Ireland,18,female,0.5
+Italy,24,male,0.61
+France,22,female,0.45
+Italy,20,male,0.73
+Italy,23,female,0.48
+United Kingdom,18,female,0.31
+United Kingdom,23,male,0.47
+France,24,female,0.9
+Spain,24,male,0.5
+Italy,19,male,0.79
+Spain,20,female,0.22
+Ireland,24,male,0.41
+Germany,23,male,0.4
+Spain,24,male,0.4
+France,18,male,0.67
+United Kingdom,18,female,0.44
+France,20,male,0.76
+Spain,20,male,0.52
+Ireland,19,female,0.7
+France,21,female,0.64
+Spain,21,male,0.4
+Spain,22,female,0.2
+Italy,18,male,0.79
+France,24,male,0.41
+France,19,male,0.75
+Ireland,19,female,0.65
+France,19,female,0.53
+Germany,21,male,0.54
+Spain,21,male,0.34
+Ireland,18,male,0.56
+Germany,23,female,0.38
+Ireland,20,male,0.57
+France,19,male,0.56
+Italy,24,female,0.38
+Spain,22,male,0.48
+Spain,22,male,0.22
+France,19,female,0.25
+Ireland,18,female,0.5
+United Kingdom,21,male,0.97
+Ireland,19,male,0.93
+Germany,24,male,0.22
+United Kingdom,22,male,0.84
+France,18,male,0.59
+France,24,female,0.61
+Germany,20,male,0.94
+Spain,21,male,0.52
+United Kingdom,18,female,0.63
+Italy,18,female,0.44
+Spain,24,female,0.66
+France,24,male,0.92
+Italy,24,male,0.3
+France,20,female,0.79
+Ireland,18,female,0.74
+United Kingdom,22,female,0.58
+Spain,22,female,0.67
+Spain,18,female,0.72
+Spain,22,female,0.82
+Ireland,23,male,0.53
+France,23,male,0.89
+Ireland,18,female,0.58
+Ireland,18,male,0.59
+Spain,19,female,0.23
+Germany,21,female,0.15
+Spain,24,male,0.58
+Spain,18,male,0.78
+Italy,22,female,0.72
+United Kingdom,20,male,0.6
+Spain,18,male,0.34
+United Kingdom,19,male,0.89
+France,24,male,0.7
+United Kingdom,22,female,0.56
+Ireland,18,female,0.6
+Ireland,21,male,0.74
+France,24,male,0.1
+Spain,21,female,0.2
+Spain,18,male,0.68
+Ireland,24,female,0.47
+France,19,female,0.25
+United Kingdom,20,female,0.23
+Germany,24,female,0.6
+United Kingdom,23,male,0.22
+Italy,24,female,0.51
+Spain,22,female,0.41
+Germany,18,female,0.81
+United Kingdom,23,female,0.84
+Ireland,21,female,0.51
+Ireland,24,male,0.65
+France,20,female,0.23
+United Kingdom,23,female,0.32
+Italy,22,female,0.49
+Italy,24,male,0.16
+Spain,18,female,0.76
+Ireland,19,female,0.79
+Germany,18,female,0.22
+Germany,20,male,0.64
+Ireland,23,male,0.6
+France,20,female,0.62
+Italy,21,male,0.48
+Germany,21,male,0.63
+United Kingdom,24,female,0.76
+Germany,22,male,0.21
+Ireland,19,male,0.82
+Spain,23,female,0.8
+Germany,19,male,0.5
+United Kingdom,21,female,0.74
+Ireland,21,male,0.63
+Ireland,24,female,0.22
+France,20,female,0.2
+Germany,19,male,0.7
+United Kingdom,23,male,0.12
+France,23,male,0.56
+Germany,24,female,0.44
+Germany,18,male,0.31
+Ireland,18,female,0.7
+Germany,23,female,0.4
+France,22,male,0.7
+Spain,22,male,0.85
+Germany,24,male,0.45
+France,23,male,0.66
+Germany,21,male,0.79
+Germany,24,female,0.67
+France,23,female,0.85
+France,20,male,0.86
+Ireland,18,male,0.48
+Italy,23,female,0.66
+United Kingdom,24,female,0.54
+France,22,male,0.67
+Ireland,24,female,0.1
+Italy,18,female,0.5
+Spain,24,male,0.32
+United Kingdom,22,male,0.42
+Italy,24,male,0.33
+France,20,male,0.67
+Italy,21,female,0.67
+Ireland,20,male,0.48
+Spain,24,male,0.58
+Spain,19,male,0.5
+United Kingdom,21,male,0.59
+France,18,female,0.46
+Ireland,20,female,0.74
+United Kingdom,23,female,0.83
+Germany,22,male,0.24
+France,20,female,0.51
+Ireland,19,female,0.62
+United Kingdom,23,female,0.51
+Germany,18,female,0.67
+Spain,21,male,0.5
+Ireland,22,female,0.73
+France,21,male,0.69
+France,21,female,0.68
+United Kingdom,24,female,0.48
+Germany,20,male,0.68
+Germany,24,male,0.24
+Germany,21,male,0.6
+United Kingdom,19,male,0.43
+France,20,male,0.76
+Italy,19,male,0.63
+Ireland,21,male,0.7
+France,22,male,0.52
+Spain,18,female,0.4
+France,19,female,0.49
+Italy,18,female,0.41
+Spain,22,male,0.63
+Spain,18,female,0.66
+Spain,23,male,0.34
+Germany,19,male,0.69
+Spain,22,female,0.5
+Ireland,18,male,0.54
+Ireland,19,female,0.29
+Italy,19,male,0.23
+France,23,female,0.63
+Italy,22,female,0.71
+United Kingdom,22,male,0.75
+United Kingdom,24,female,0.43
+Germany,19,female,0.49
+United Kingdom,24,male,0.66
+Spain,23,male,0.43
+Ireland,23,male,0.4
+Ireland,23,male,0.68
+Italy,21,female,0.33
+Germany,24,male,0.69
+Ireland,23,male,0.33
+France,22,female,0.47
+Spain,22,male,0.2
+Spain,22,female,0.6
+Italy,18,male,0.21
+Ireland,20,female,0.62
+United Kingdom,23,male,0.63
+Germany,23,female,0.2
+Spain,20,female,0.76
+Spain,23,male,0.76
+Spain,20,male,0.33
+Italy,21,male,0.63
+Germany,24,male,0.45
+United Kingdom,20,male,0.25
+Italy,20,male,0.43
+United Kingdom,18,female,0.6
+Germany,23,female,0.57
+France,21,female,0.52
+United Kingdom,19,male,0.25
+France,19,female,0.5
+Spain,22,female,0.4
+United Kingdom,18,female,0.61
+United Kingdom,20,female,0.28
+United Kingdom,23,male,0.85
+Italy,18,female,0.69
+France,18,male,0.78
+Spain,18,male,0.77
+Italy,21,female,0.64
+Italy,18,male,0.34
+Italy,18,female,0.52
+France,23,male,0.62
+Germany,22,male,0.6
+Ireland,22,male,0.58
+Spain,20,male,0.22
+Spain,23,female,0.34
+Ireland,22,female,0.89
+Spain,22,male,0.37
+France,21,male,0.44
+Ireland,22,female,0.51
+Spain,23,female,0.78
+Ireland,24,female,0.4
+Spain,22,female,0.54
+Germany,23,female,0.37
+Germany,23,male,0.55
+Germany,20,male,0.83
+Germany,23,female,0.63
+United Kingdom,22,female,0.58
+France,21,male,0.65
+Spain,22,female,0.68
+United Kingdom,24,male,0.7
+Germany,20,male,0.34
+Italy,19,female,0.64
+Italy,23,male,0.53
+Spain,20,male,0.82
+Germany,23,female,0.46
+Spain,18,female,0.77
+France,19,female,0.65
+United Kingdom,20,male,0.4
+Italy,21,male,0.39
+Ireland,18,male,0.8
+United Kingdom,20,male,0.5
+Italy,20,male,0.45
+Ireland,18,female,0.37
+Spain,20,female,0.27
+Spain,24,male,0.13
+Germany,18,male,0.64
+France,23,female,0.32
+United Kingdom,23,female,0.25
+France,22,male,0.86
+Ireland,20,female,0.6
+United Kingdom,21,female,0.58
+Italy,18,female,0.34
+Germany,20,female,0.4
+Spain,21,male,0.65
+Ireland,24,female,0.45
+Ireland,18,male,0.27
+Germany,19,male,0.71
+United Kingdom,23,male,0.28
+Ireland,18,male,0.47
+Ireland,23,female,0.87
+Italy,19,male,0.7
+Germany,20,female,0.25
+United Kingdom,18,male,0.72
+France,18,male,0.4
+France,19,female,0.52
+Italy,23,female,0.23
+Germany,19,female,0.4
+United Kingdom,19,male,0.77
+France,19,female,0.81
+Ireland,18,female,0.47
+France,21,female,0.76
+Germany,23,female,0.4
+United Kingdom,22,female,0.6
+France,19,male,0.73
+Germany,20,male,0.86
+Italy,23,male,0.62
+France,18,female,0.4
+Germany,23,female,0.3
+Ireland,24,female,0.67
+Ireland,22,male,0.7
+France,18,male,0.6
+France,19,male,0.73
+Germany,18,male,0.14
+United Kingdom,21,male,0.78
+France,18,female,0.33
+United Kingdom,23,male,0.17
+United Kingdom,18,female,0.46
+Germany,23,female,0.49
+France,21,female,0.55
+Ireland,22,male,0.84
+Germany,21,male,0.42
+Italy,22,female,0.82
+Ireland,19,female,0.2
+Germany,21,female,0.46
+United Kingdom,22,male,0.68
+Spain,24,female,0.32
+Italy,22,male,0.67
