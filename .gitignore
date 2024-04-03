@@ -23,6 +23,8 @@ dask-worker-space
 .ipynb*
 .virtual*
 
+cache/
+
 test.ipynb
 
 /dataviz/code
