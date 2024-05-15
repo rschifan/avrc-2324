@@ -1,0 +1,283 @@
+<html>
+
+<head>
+
+    <style>
+        body,
+        html {
+            padding: 0px;
+            margin: 0px;
+            background-color: gray;
+            font-family: Arial, sans-serif;
+        }
+
+        #container {
+            width: 100%;
+            height: 100%;
+        }
+
+        .tooltip {
+            paint-order: stroke;
+            font-weight: bold;
+            font-size: 20px;
+            text-anchor: middle;
+            pointer-events: none;
+            stroke: #222;
+            stroke-width: 10px;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            fill: white;
+        }
+
+        .labels {
+            font-size: 12px;
+            font-weight: 100;
+            text-anchor: middle;
+            pointer-events: none;
+            fill: #222;
+
+        }
+    </style>
+
+
+    <script type="module">
+
+        import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+        const width = container.getBoundingClientRect().width;
+        const height = container.getBoundingClientRect().height;
+
+        let isLabelVisible = false
+        let isForceDirectedAnimationOver = false;
+
+        // Load data from a JSON file
+        d3.json("data/got.json").then(got => {
+
+            var nodes = got.nodes
+            var links = got.links
+
+            const nodeRadiusScale = d3.scaleLinear()
+                .domain(d3.extent(nodes.map((d) => d.bc)))
+                .range([5, 15])
+            const linkStrokeWidthScale = d3.scaleLinear()
+                .domain(d3.extent(links.map((d) => d.weight)))
+                .range([1, 10])
+            const linkStrokeOpacityScale = d3.scaleLinear()
+                .domain(d3.extent(links.map((d) => d.weight)))
+                .range([0.3, 1])
+
+            const linkStrokeWidth = (d) => linkStrokeWidthScale(d.weight)
+            const linkStrokeOpacity = (d) => linkStrokeOpacityScale(d.weight)
+            const linkStroke = "#000";
+            const linkStrokeLinecap = "round";
+
+            const colors = d3.schemeTableau10;
+            const nodeRadius = (d) => nodeRadiusScale(d.bc)
+            const nodeFill = (d) => colors[d.community];
+            const nodeStroke = "#000";
+            const nodeStrokeWidth = 1.5;
+
+            const svg = d3.create("svg")
+                .attr("width", "100%")
+                .attr("height", "100%")
+                .attr("viewBox", [-width / 2, -height / 2, width, height])
+                .style("background-color", "gray")
+
+            const communityGroup = svg.append('g');
+            const linkGroup = svg.append('g');
+            const nodeGroup = svg.append('g');
+            const tooltipGroup = svg.append("g");
+            const labelsGroup = svg.append("g");
+
+            const link = linkGroup
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke", linkStroke)
+                .attr("stroke-opacity", linkStrokeOpacity)
+                .attr("stroke-width", linkStrokeWidth)
+                .attr("stroke-linecap", linkStrokeLinecap)
+
+            const node = nodeGroup
+                .selectAll("circle")
+                .data(nodes)
+                .join("circle")
+                .attr("fill", nodeFill)
+                .attr("stroke", nodeStroke)
+                .attr("stroke-width", nodeStrokeWidth)
+                .attr("r", nodeRadius)
+
+            const tooltip = tooltipGroup
+                .append("text")
+                .attr("class", "tooltip")
+
+            // Handle events on nodes    
+            node.on("mouseenter", function (event, d) {
+
+                if (isForceDirectedAnimationOver) {
+
+                    d3.select(event.currentTarget).style("cursor", "pointer");
+
+                    // Change the opacity of all nodes and links
+                    node.style("opacity", 0.1);
+                    link.style("opacity", 0.1);
+
+                    // Get the nodes connected to the hovered node
+                    const connectedNodes = node.filter(n => links.some(l => l.source === d && l.target === n || l.target === d && l.source === n));
+                    const connectedLinks = link.filter(l => l.source === d || l.target === d)
+
+                    d3.select(this)
+                        .style("opacity", 1)
+                        .attr("stroke-width", 5)
+                        .attr("stroke", "white");
+
+                    connectedLinks.style("opacity", 1);
+                    connectedNodes.style("opacity", 1);
+
+                    // Set up the tooltip
+                    tooltipGroup
+                        .style("opacity", 1);
+
+                    tooltipGroup.select("text")
+                        .text(d.id)
+                        .attr('x', d.x)
+                        .attr('y', d.y - nodeRadiusScale(d.bc) - 10);
+
+                    // Add node labels when hovering on a node
+                    if (isLabelVisible) {
+                        var labels = labelsGroup
+                            .selectAll(".labels")
+                            .data(nodes.filter(n => links.some(l => l.source === d && l.target === n || l.target === d && l.source === n)))
+                            .join("text")
+                            .text((d) => d.id)
+                            .attr("class", "labels")
+                            .attr('x', (d) => d.x)
+                            .attr('y', (d) => d.y - nodeRadiusScale(d.bc) - 4)
+                    }
+
+                    // Handle communities paths 
+                    const connectedCommunities = new Set();
+                    connectedNodes.each(function (d, i) {
+                        connectedCommunities.add(d.community)
+                    })
+                    communityGroup.selectAll("path").style("opacity", 0.1);
+                    // Set opacity of the selected communities
+                    communityGroup.selectAll("path")
+                        .filter(p => connectedCommunities.has(p.community))
+                        .style("opacity", 0.6)
+                        .attr("stroke-width", 6);
+
+                }
+            })
+                .on("mouseout", function (d) {
+                    if (isForceDirectedAnimationOver) {
+
+                        // Change the opacity of all nodes and links back to 1
+                        node.style("opacity", 1);
+                        link.style("opacity", 1);
+
+                        d3.select(this)
+                            .style("opacity", 1)
+                            .attr("stroke-width", nodeStrokeWidth)
+                            .attr("stroke", nodeStroke);
+                    }
+
+                    // Remove tooltip
+                    tooltipGroup.style("opacity", 0);
+
+                    // Remove node labels
+                    if (isLabelVisible) labelsGroup.selectAll(".labels").remove()
+
+                    // Reset the opacity of all paths
+                    communityGroup.selectAll("path")
+                        .style("opacity", 0.5)
+                        .attr("stroke-width", 2);
+                })
+
+            // Handle the force-directed layout    
+            const forceNode = d3.forceManyBody();
+            const forceLink = d3
+                .forceLink(links)
+                .id((d) => d.id);
+            const forceCenter = d3.forceCenter();
+            const forceCollide = d3
+                .forceCollide()
+                .radius(d => nodeRadius(d));
+
+            const simulation = d3.forceSimulation(nodes)
+                .force("charge", forceNode)
+                .force("link", forceLink)
+                .force("center", forceCenter)
+                .force("collide", forceCollide)
+                .on("tick", ticked)
+                .on("end", function (event) {
+                    isForceDirectedAnimationOver = true;
+                })
+
+            function ticked() {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+
+                // Handle the community paths creation    
+                // Group nodes by community
+                const groups = d3.group(nodes, d => d.community);
+                // Remove all paths from the previous force-directed simulation step
+                communityGroup.selectAll("path").remove()
+                // For each group, compute the convex hull and create a path element
+                for (const [community, groupNodes] of groups) {
+
+                    const hullPoints = d3.polygonHull(groupNodes.map(d => [d.x, d.y]));
+
+                    if (hullPoints) {
+                        communityGroup
+                            .append("path")
+                            .datum({ points: hullPoints, community: community })
+                            .attr("fill", colors[community])
+                            .attr("stroke", "black")
+                            .attr("stroke-width", 2)
+                            .attr("stroke-linejoin", "round")
+                            .style("opacity", 0.5)
+                            .attr("d", d => d3.line().curve(d3.curveCatmullRomClosed)(d.points));
+                    }
+                }
+            }
+
+
+            //Define the zoom behavior
+            const zoomHandler = d3.zoom()
+                .scaleExtent([0.1, 10]) // This defines the minimum and maximum zoom scale
+                .on("zoom", function (event) {
+                    // This function is called when a zoom event occurs
+                    // The transform attribute is updated with the new scale and translate values
+                    linkGroup.attr("transform", event.transform);
+                    nodeGroup.attr("transform", event.transform);
+                    tooltipGroup.attr("transform", event.transform);
+                    if (isLabelVisible) labelsGroup.attr("transform", event.transform);
+                    communityGroup.attr("transform", event.transform);
+                });
+            svg.call(zoomHandler);
+
+            container.append(svg.node());
+
+        }).catch(error => {
+            console.error("Error loading the JSON file:", error);
+        });
+
+    </script>
+
+
+
+</head>
+
+<body>
+    <div id="container"></div>
+</body>
+
+</html>
