@@ -231,8 +231,12 @@
                         const connectedLinks = link.filter(l => l.source === d || l.target === d)
 
                         const margin = 10
-                        const bandwidth = (height - margin * 2) / connectedNodes.size()
-                        const y0 = height / 2 - margin - bandwidth / 2
+                        const min_bandwidth = 19
+                        const n = connectedNodes.size()
+                        let bandwidth = (height - margin * 2) / n
+                        bandwidth = bandwidth < min_bandwidth ? min_bandwidth : bandwidth;
+                        const stage_height = height < bandwidth * n ? bandwidth * n : height
+                        const y0 = stage_height / 2 - margin - bandwidth / 2
                         const x0 = 200
 
                         d3.select(this)
