@@ -275,21 +275,23 @@
                                     .transition()
                                     .duration(400)
                                     .style("opacity", 1);
+
+                                var labels = labelsGroup
+                                    .selectAll(".labels")
+                                    .data(connectedNodes.data())
+                                    .join("foreignObject")
+                                    .attr("class", "labels")
+                                    .attr('x', x0 + 2 * margin)
+                                    .attr('y', (d, i) => - y0 + i * bandwidth - 10)
+                                    .attr("width", (d) => d.id.length * 10)
+                                    .attr("height", 20)
+                                    .append("xhtml:div")
+                                    .style("background-color", nodeFill)
+                                    .text((d) => d.id);
                             })
 
 
-                        var labels = labelsGroup
-                            .selectAll(".labels")
-                            .data(connectedNodes.data())
-                            .join("foreignObject")
-                            .attr("class", "labels")
-                            .attr('x', x0 + 2 * margin)
-                            .attr('y', (d, i) => - y0 + i * bandwidth - 10)
-                            .attr("width", (d) => d.id.length * 10)
-                            .attr("height", 20)
-                            .append("xhtml:div")
-                            .style("background-color", nodeFill)
-                            .text((d) => d.id);
+
 
                     }
 
